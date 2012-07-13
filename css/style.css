@@ -516,6 +516,11 @@ footer {
     float: right;
     margin-left: 75px; }
 
+code {
+  padding: 0 5px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
 
 /* =============================================================================
    Non-semantic helper classes
