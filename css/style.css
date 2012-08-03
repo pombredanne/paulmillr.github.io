@@ -423,7 +423,7 @@ nav {
   font-size: 19px;
   float: left;
   width: 425px;
-  height: 495px;
+  height: 585px;
   margin: 0 10px 10px 0;
   padding: 35px;
   line-height: 26px;
@@ -433,7 +433,7 @@ nav {
   height: auto; }
 .cell.nopadding {
   width: 495px;
-  height: 565px;
+  height: 655px;
   padding: 0; }
 
 .projects > ul {
