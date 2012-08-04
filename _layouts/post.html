@@ -2,12 +2,23 @@
 layout: base-comments
 ---
 
-<section class="cell big">
-  <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
-  <section class="post-date">{{ page.date | date: "%d %B %y" }}</section>
-  <section class="post-content">
-    {{ content }}
+{% if page.external_link != null %}
+  <script>
+    window.location.href = '{{ page.external_link }}';
+  </script>
+
+  <noscript>
+    You can view the post at
+    <a href="{{ page.external_link }}">{{ page.external_link }}</a>
+  </noscript>
+{% else %}
+  <section class="cell big">
+    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+    <section class="post-date">{{ page.date | date: "%d %B %y" }}</section>
+    <section class="post-content">
+      {{ content }}
+    </section>
+    <div class="page-comments">
+    </div>
   </section>
-  <div class="page-comments">
-  </div>
-</section>
+{% endif %}
