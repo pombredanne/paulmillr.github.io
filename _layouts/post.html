@@ -3,14 +3,8 @@ layout: base-comments
 ---
 
 {% if page.external_link != null %}
-  <script>
-    window.location.href = '{{ page.external_link }}';
-  </script>
-
-  <noscript>
-    You can view the post at
-    <a href="{{ page.external_link }}">{{ page.external_link }}</a>
-  </noscript>
+  You can view the post at
+  <a href="{{ page.external_link }}">{{ page.external_link }}</a>.
 {% else %}
   <section class="cell big">
     <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
