@@ -521,6 +521,24 @@ code {
   background-color: rgba(0, 0, 0, 0.1);
 }
 
+header > .cell {
+  background-color: transparent; }
+
+.triangle {
+  position: absolute;
+  top: 163px;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 0;
+  z-index: -1; }
+
+.right-triangle {
+  border-bottom-width: 103px;
+  border-left-color: #111; }
+
+.left-triangle {
+  border-top-width: 103px;
+  border-right-color: #fffd38; }
 
 /* =============================================================================
    Non-semantic helper classes
