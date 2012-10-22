@@ -34,10 +34,10 @@ layout: base
       {% endif %}
     {% endfor %}
   </ul>
-  <h4>Anarcho-capitalism, libertarianism, praxeology</h4>
+  <h4>Libertarianism &amp; anarcho-capitalism</h4>
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.tags contains 'libertarianism' or post.tags contains 'economics' or post.tags contains 'anarcho-capitalism' or post.tags contains 'praxeology' %}
+      {% if post.tags contains 'libertarianism' %}
         <li>
           {{ post.date | date: "%d %b %y" }} »
           <a href="{% if post.external_link != null %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
