@@ -4,10 +4,8 @@ layout: base
 
 {{ content }}
 
-<section class="cell big page-links clearfix">
-  {% if page.hackernews != null %}
+{% if page.hackernews != null %}
+  <section class="cell big page-links clearfix">
     <p class="hackernews-info">You can discuss this post at <a href="{{ page.hackernews }}">Hacker News</a>.</p>
-  {% endif %}
-  <p class="twitter-link"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="paulmillr">Tweet</a></p>
-  <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-</section>
+  </section>
+{% endif %}
