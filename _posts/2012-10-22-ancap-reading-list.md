@@ -6,10 +6,14 @@ tags: ['libertarianism']
 
 Here’s a list of books and articles about libertarianism / anarcho-capitalism which I recommend. It will be updating constantly.
 
+#### Basics
+
+You can read the basics of the philosophy in [anarcho-capitalist FAQ](http://www.ozarkia.net/bill/anarchism/faq.html).
+
 #### Books
 
-1. **David Bergland — Libertarianism in one lesson** — the basics about libertarian philosophy.
-2. [**Walter Block — Defending the undefendable**](http://mises.org/document/3490/Defending-the-Undefendable) — a tale on negative social / economic issues with governments prohibitions. Block defends pimps, drug dealers, blackmailers, corrupt policemen, and loan sharks as "economic heroes".
+1. [**Walter Block — Defending the undefendable**](http://mises.org/document/3490/Defending-the-Undefendable) — a tale on negative social / economic issues with governments prohibitions. Block defends pimps, drug dealers, blackmailers, corrupt policemen, and loan sharks as "economic heroes".
+2. **David Bergland — Libertarianism in one lesson** — the basics about libertarian philosophy.
 3. [**Murray Rothbard — What Has Government Done to Our Money?**](http://mises.org/document/617/What-Has-Government-Done-to-Our-Money) — the not-so-brief history of economics in XIX-XX centuries. How central banks fucked up all the shit, how the gold standard was fucked up.
 4. [**Murray Rothbard — The Ethics of Liberty**](http://mises.org/document/1179/The-Ethics-of-Liberty). Describes ethics of libertarian philosophy, natural rights (freedoms). Contains a bit about rights of mother on her child and responses to consequentialist critics of non-aggression principle. Pretty similar to the previous book, although less interesting.
 
@@ -26,7 +30,7 @@ Less interesting, but still neat books:
 
 * [Andor Jakab — This is why I don’t give you a job](http://andorjakab.blog.hu/2012/01/06/this_is_why_i_don_t_give_you_a_job) — a hungarian entrepreneur’s cry from the heart on the lack of freedom.
 * [Thomas J. DiLorenzo — The Myth of Natural Monopoly](http://mises.org/daily/5266/) — facts on unnaturalness and ineffectiveness of [“natural monopolies”](http://en.wikipedia.org/wiki/Natural_monopoly).
-* [Anarcho-capitalist FAQ](http://www.ozarkia.net/bill/anarchism/faq.html) — twelve frequently asked questions on ancap.
+* [Left-anarchist critique of anarcho-capitalism](http://www.infoshop.org/AnarchistFAQSectionF) — nice view of ancom on ancap.
 
 #### Articles in russian
 
