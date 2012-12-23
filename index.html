@@ -37,13 +37,18 @@ layout: base
   <h3><a href="http://en.wikipedia.org/wiki/Anarcho-capitalism">Anarcho-capitalism</a> &amp; <a href="http://en.wikipedia.org/wiki/Libertarianism">libertarianism</a></h3>
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.tags contains 'libertarianism' %}
-      {% unless post.tags contains 'lang:ru' %}
+      {% if post.tags contains 'libertarianism' and post.language != 'ru' %}
         <li>
           {{ post.date | date: "%d %b %y" }} »
           <a href="{% if post.external_link != null %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
+          {% if post.translation-id %}
+            {% for subpost in site.posts %}
+              {% if subpost.translation-id == post.translation-id and subpost.id != post.id %}
+                (in russian: <a href="{{ subpost.url }}">{{ subpost.title }}</a>)
+              {% endif %}
+            {% endfor %}
+          {% endif %}
         </li>
-      {% endunless %}
       {% endif %}
     {% endfor %}
   </ul>
