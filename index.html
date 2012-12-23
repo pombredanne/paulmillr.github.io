@@ -3,7 +3,7 @@ layout: base
 ---
 
 <section class="cell">
-  <h3>Projects</h3>
+  <h2>Projects</h2>
   <section class="projects">
     <p>
       <ul>
@@ -22,8 +22,8 @@ layout: base
   </section>
 </section>
 <section class="cell">
-  <h3>Recent posts <small><a href="https://github.com/paulmillr/paulmillr.github.com">(feed)</a></small></h3>
-  <h4>Programming</h4>
+  <h2>Recent posts <small><a href="https://github.com/paulmillr/paulmillr.github.com">(feed)</a></small></h2>
+  <h3>Programming</h3>
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.tags contains 'programming' %}
@@ -34,14 +34,16 @@ layout: base
       {% endif %}
     {% endfor %}
   </ul>
-  <h4><a href="http://en.wikipedia.org/wiki/Anarcho-capitalism">Anarcho-capitalism</a> &amp; <a href="http://en.wikipedia.org/wiki/Libertarianism">libertarianism</a></h4>
+  <h3><a href="http://en.wikipedia.org/wiki/Anarcho-capitalism">Anarcho-capitalism</a> &amp; <a href="http://en.wikipedia.org/wiki/Libertarianism">libertarianism</a></h3>
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.tags contains 'libertarianism' %}
+      {% unless post.tags contains 'lang:ru' %}
         <li>
           {{ post.date | date: "%d %b %y" }} »
           <a href="{% if post.external_link != null %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
         </li>
+      {% endunless %}
       {% endif %}
     {% endfor %}
   </ul>
