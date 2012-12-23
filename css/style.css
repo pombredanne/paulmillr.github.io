@@ -506,6 +506,13 @@ footer {
 .post-content img {
   max-width: 930px; }
 
+blockquote {
+  border-left: 4px solid #ddd;
+  padding: 0 15px;
+  color: #777;
+  margin: 0;
+}
+
 .talk-wrap {
   max-width: 650px; }
 
