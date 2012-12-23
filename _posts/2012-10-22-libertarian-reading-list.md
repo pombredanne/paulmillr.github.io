@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anarcho-capitalist / libertarian reading list
+title: Libertarian / anarcho-capitalist reading list
 tags: ['libertarianism']
 ---
 
