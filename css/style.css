@@ -334,7 +334,7 @@ h2 {
 
 .post-content h2 {
   font-size: 1.3em;
-  font-family: "calluna", serif;
+  font-family: "calluna", Palatino, serif;
 }
 
 header > .cell > p {
@@ -424,7 +424,7 @@ nav {
   margin-right: -10px; }
 
 .cell {
-  font-family: "calluna", serif;
+  font-family: "calluna", Palatino, serif;
   font-size: 19px;
   float: left;
   width: 425px;
