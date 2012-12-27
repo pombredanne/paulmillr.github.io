@@ -424,7 +424,7 @@ nav {
   margin-right: -10px; }
 
 .cell {
-  font-family: "calluna", Palatino, serif;
+  font-family: "calluna", Palatino, "Palatino Linotype", serif;
   font-size: 19px;
   float: left;
   width: 425px;
