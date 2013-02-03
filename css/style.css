@@ -345,7 +345,8 @@ header > .cell > p {
 .header-links {
   float: right; }
 .header-link {
-  float: left; }
+  float: left;
+  padding-left: 5px; }
   .header-link-image {
     width: 32px; }
 
