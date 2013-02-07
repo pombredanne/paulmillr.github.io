@@ -10,12 +10,12 @@ English translation is in progress.
 
 Right now you can only read [russian version](http://paulmillr.com/posts/libertarianism-how-it-works-ru/).
 
-The extract of my thouhghts on anarcho-capitalism and libertarianism.
+Extract of my thoughts on anarcho-capitalism and libertarianism.
 
 Every section has description of how the life area will work, advantages of such way of work and responses to frequently appearing counter-arguments to anarcho-capitalists model.
 
-* **Аefinition**
-* **Яn competition efficiency**
+* **Definition**
+* **On competition efficiency**
 * **Private law (police and courts)**
 * **Private roads, land and ocean**
 * **Private money**
@@ -23,7 +23,6 @@ Every section has description of how the life area will work, advantages of such
 * **Conclusion**
 
 ## Definition
-Libertarianism is a political philosophy, that has
 
 ## On competition efficiency
 
