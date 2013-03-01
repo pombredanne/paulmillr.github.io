@@ -471,6 +471,9 @@ nav {
       text-transform: uppercase;
       color: #fff; }
 
+.main-page-cell {
+  height: 785px;}
+
 pre {
   font-size: 13px;
   overflow: scroll;
