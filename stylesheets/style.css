@@ -99,13 +99,13 @@ header > .cell > p {
 .cell {
   font-size: 18px;
   float: left;
-  width: 930px;
+  width: 940px;
   margin: 0 10px 10px 0;
-  padding: 35px;
+  padding: 30px;
   line-height: 26px;
   background-color: #f7f7f7; }
   .half-cell {
-    width: 425px;
+    width: 435px;
     height: 735px; }
   .cell a, .cell a:visited, .cell h1 {
     color: #f60; }
