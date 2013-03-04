@@ -10,29 +10,26 @@
   <meta name="description" content="Paul Miller's homepage">
   <meta name="author" content="Paul Miller">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/css/style.css">
-  <script src="/js/libs/respond.min.js"></script>
-  <script src="/js/preload.js"></script>
+  <link rel="stylesheet" href="/stylesheets/normalize-2.1.0.css">
+  <link rel="stylesheet" href="/stylesheets/style.css">
+  <script src="/javascripts/vendor/respond.min.js"></script>
+  <script src="/javascripts/vendor/preload.js"></script>
 </head>
 <body>
   <div id="container">
-    <header>
-      <div class="tag-bar">
-        <h1><a href="/">Paul Miller</a></h1>
-      </div>
-      <section class="cell big clearfix">
-        <div class="author-photo">
-          <a href="http://tiny.cc/pm-photo">
-            <img src="https://secure.gravatar.com/avatar/d342e4ef045c54a6a6f41d070d8a0406?size=300" width="150" height="150" />
-          </a>
-        </div>
+    <header itemprop="person" itemscope>
+      <h1 class="page-title"><a href="/" itemprop="name">Paul Miller</a></h1>
+      <section class="cell">
+        <a href="http://tiny.cc/pm-photo" class="author-photo">
+          <img src="https://secure.gravatar.com/avatar/d342e4ef045c54a6a6f41d070d8a0406?size=300" width="150" height="150" />
+        </a>
         <p>
           Hey, my name is Paul.
           I make projects which help developers to build awesome things.
           I also give talks about making better software.
           Sometimes I write essays on
           <a href="http://en.wikipedia.org/wiki/Anarcho-capitalism">anarcho-capitalism</a>
-          theory, because I like freedom and stuff.
+          theory, because I love freedom and stuff.
         </p>
         <p>
           You can ping me on
@@ -42,17 +39,17 @@
         </p>
 
         <p class="header-links clearfix">
-          <a class="header-link" href="http://twitter.com/paulmillr">
-            <img class="header-link-image" src="/img/twitter.png" alt="Twitter" />
+          <a class="header-link" href="http://twitter.com/paulmillr" itemprop="url">
+            <img class="header-link-image" src="/images/twitter.png" alt="Twitter" width="32" height="32" />
           </a>
-          <a class="header-link" href="http://github.com/paulmillr">
-            <img class="header-link-image" src="/img/github.png" alt="Github" />
+          <a class="header-link" href="http://github.com/paulmillr" itemprop="url">
+            <img class="header-link-image" src="/images/github.png" alt="Github width="32" height="32"" />
           </a>
-          <a class="header-link" href="http://www.last.fm/user/docbay0">
-            <img class="header-link-image" src="/img/lastfm.png" alt="Last.fm">
+          <a class="header-link" href="http://www.last.fm/user/docbay0" itemprop="url">
+            <img class="header-link-image" src="/images/lastfm.png" alt="Last.fm" width="32" height="32" />
           </a>
-          <a class="header-link" href="https://plus.google.com/104268979289869409607?rel=author">
-            <img class="header-link-image" src="/img/google-plus.png" alt="Last.fm">
+          <a class="header-link" href="https://plus.google.com/104268979289869409607?rel=author" itemprop="url">
+            <img class="header-link-image" src="/images/google-plus.png" alt="Last.fm" width="32" height="32" />
           </a>
         </p>
       </section>

@@ -1,18 +1,21 @@
 ---
-layout: base-comments
+layout: base
 ---
 
 {% if page.external_link != null %}
   You can view the post at
   <a href="{{ page.external_link }}">{{ page.external_link }}</a>.
 {% else %}
-  <section class="cell big">
+  <section class="cell post">
     <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
     <section class="post-date">{{ page.date | date: "%d %B %y" }}</section>
-    <section class="post-content">
-      {{ content }}
-    </section>
-    <div class="page-comments">
-    </div>
+    <section class="post-content">{{ content }}</section>
+    <div class="page-comments"></div>
+  </section>
+{% endif %}
+
+{% if page.hackernews != null %}
+  <section class="cell page-links clearfix">
+    <p class="hackernews-info">You can discuss this post at <a href="{{ page.hackernews }}">Hacker News</a>.</p>
   </section>
 {% endif %}
