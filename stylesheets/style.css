@@ -86,10 +86,9 @@ header > .cell > p {
 .page-title {
   clear: both;
   margin: 0 10px 10px 0;
-  padding: 10px 36px 0 36px;
+  padding: 40px 30px 30px 30px;
   font-size: 60px;
   font-weight: bold;
-  line-height: 120px;
   text-transform: uppercase;
   color: #fff;
   background: #0092bf; }
@@ -145,8 +144,7 @@ header > .cell > p {
     header > .cell {
       margin-top: 10px; }
   .page-title {
-    margin: 0 0 10px 0;
-    line-height: inherit; }
+    margin: 0 0 10px 0; }
   .header-links {
     float: none;
     padding-bottom: 10px; }
