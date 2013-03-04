@@ -144,8 +144,12 @@ header > .cell > p {
       margin-right: 0; }
     header > .cell {
       margin-top: 10px; }
-  .tag-bar {
-    margin: 0 0 10px 0; }
+  .page-title {
+    margin: 0 0 10px 0;
+    line-height: inherit; }
+  .header-links {
+    float: none;
+    padding-bottom: 10px; }
   .cell, .cell.nopadding {
     float: none;
     width: auto;
