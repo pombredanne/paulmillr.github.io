@@ -16,6 +16,7 @@ You can read the basics of the philosophy in [anarcho-capitalist FAQ](http://www
 2. **David Bergland — Libertarianism in one lesson** — the basics about libertarian philosophy.
 3. [**Murray Rothbard — What Has Government Done to Our Money?**](http://mises.org/document/617/What-Has-Government-Done-to-Our-Money) — the not-so-brief history of economics in XIX-XX centuries. How central banks fucked up all the shit, how the gold standard was fucked up.
 4. [**Murray Rothbard — The Ethics of Liberty**](http://mises.org/document/1179/The-Ethics-of-Liberty). Describes ethics of libertarian philosophy, natural rights (freedoms). Contains a bit about rights of mother on her child and responses to consequentialist critics of non-aggression principle. Pretty similar to the previous book, although less interesting.
+5. [**Hans-Hermann Hoppe — Myth of National Defense**](http://mises.org/document/1092/Myth-of-National-Defense-The-Essays-on-the-Theory-and-History-of-Security-Production). Book tells about inefficiency of states as security providers, historicity of the State. Also contains chapters describing how state-less societies may defend themselves from states; private free-market defense and law production and debunking myth that democracy is more peaceful than other forms of government.
 
 Less interesting, but still neat books:
 
