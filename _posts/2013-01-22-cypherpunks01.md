@@ -4,7 +4,7 @@ title: 'cypherpunks01 standard for anonymous profiles'
 tags: ['libertarianism']
 ---
 
-The idea is to standardise patterns for anonymous usernames / passwords, make them well-known ([already done, see](https://google.com/?q=cypherpunks01)) and use them collectively.
+The idea is to standardise patterns for anonymous usernames / passwords, make them well-known ([already used by many people, see](https://google.com/?q=cypherpunks01)) and use them collectively.
 
 For anonymous login on any site:
 

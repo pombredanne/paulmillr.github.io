@@ -22,6 +22,7 @@ Less interesting, but still neat books:
 
 * [**Walter Block — The Privatization of Roads and Highways**](http://mises.org/document/4084/The-Privatization-of-Roads-and-Highways). Big (~1K pages) book about benefits & detailed description of how roads will function if they will be freed from government monopolies.
 * [**Murray Rothbard — The Case Against the Fed**](http://mises.org/document/3430/The-Case-Against-the-Fed). Tells history of americal federal reverse system, reasons of its shittiness and a bit more.
+* [**Vadim Volkov — Violent Entrepreneurs: The Use of Force in the Making of Russian Capitalism**](http://www.amazon.com/Violent-Entrepreneurs-Making-Russian-Capitalism/dp/0801487781) [(also in russian)](http://eupress.ru/books/index/item/id/114). Very good research of organised violence in post-USSR Russia, very similar to free market private defence agencies. Provides some insights and facts on how private law could actually work today.
 
 #### Fiction books
 
@@ -47,5 +48,7 @@ Less interesting, but still neat books:
 * [“Libertarian” definition](http://rln.fm/2012/06/libertarianstvo-i-libertarianec-34502/) — good definition of who libertarian is in terms of freedom.
 * [Libertarian FAQ](http://liber.wikidot.com/) — 50+ good frequently asked questions about libertarianism
 * [Lowest common denominator of all libertarians](http://oetar.livejournal.com/66093.html) — the common of ancaps, minarchists, randians etc.
+* [One more view on social darwinism](http://ev-geniya.livejournal.com/7150.html) — justifications of social darwinism.
+* [Thoughts on monopolies and trusts in free market](http://sci-geek.livejournal.com/6757.html) — some logical considerations about reliability of cartels on free market.
 * [Agorist books](http://sci-geek.livejournal.com/7323.html) — a list of literature on [agorism](http://en.wikipedia.org/wiki/Agorism).
 * [The Coming Generational Storm review](http://kuznetsov.livejournal.com/45231.html) — briefly about USA's economic future.
