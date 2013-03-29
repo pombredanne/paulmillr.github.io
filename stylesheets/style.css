@@ -1,3 +1,31 @@
+@font-face {
+  font-family: 'Iowan Old Style';
+  src: url('fonts/IowanOldStyle-Roman.woff') format('woff'),
+  url('fonts/IowanOldStyle-Roman.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Iowan Old Style';
+  src: url('fonts/IowanOldStyle-Bold.woff') format('woff'),
+  url('fonts/IowanOldStyle-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Iowan Old Style';
+  src: url('fonts/IowanOldStyle-Italic.woff') format('woff'),
+  url('fonts/IowanOldStyle-Italic.ttf') format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Iowan Old Style';
+  src: url('fonts/IowanOldStyle-BoldItalic.woff') format('woff'),
+  url('fonts/IowanOldStyle-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
 ::-moz-selection {
   background: #f14a29;
   color: #fff;
