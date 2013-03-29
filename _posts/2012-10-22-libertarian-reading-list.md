@@ -51,4 +51,5 @@ Less interesting, but still neat books:
 * [One more view on social darwinism](http://ev-geniya.livejournal.com/7150.html) — justifications of social darwinism.
 * [Thoughts on monopolies and trusts in free market](http://sci-geek.livejournal.com/6757.html) — some logical considerations about reliability of cartels on free market.
 * [Agorist books](http://sci-geek.livejournal.com/7323.html) — a list of literature on [agorism](http://en.wikipedia.org/wiki/Agorism).
+* [An interview with north-korean businessman](http://slon.ru/world/otkrovennyy_razgovor_s_severokoreyskim_biznesmenom-586903.xhtml) — tells us that even repressive socialist state can hardly live without capitalism.
 * [The Coming Generational Storm review](http://kuznetsov.livejournal.com/45231.html) — briefly about USA's economic future.
