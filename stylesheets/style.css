@@ -55,6 +55,10 @@ a, a:visited {
 a:hover {
   text-decoration: underline; }
 
+abbr[title] {
+  cursor: pointer;
+}
+
 blockquote {
   border-left: 4px solid #ddd;
   padding: 0 15px;
