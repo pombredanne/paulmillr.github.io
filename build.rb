@@ -17,7 +17,9 @@ RAW = File.join(dir, '_posts-raw')
 OUTPUT = File.join(dir, '_posts')
 
 def convert(data)
-  RENDERER.render(data)
+  re = /(---(\n|.)+---)/
+  header = re.match(data)[1]
+  header + "\n\n" + RENDERER.render(data.gsub(re, ''))
 end
 
 def convert_file(file)
