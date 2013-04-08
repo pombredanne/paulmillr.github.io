@@ -13,7 +13,7 @@ RENDERER = Redcarpet::Markdown.new(Redcarpet::Render::HTML, {
 })
 
 dir = File.dirname(__FILE__)
-RAW = File.join(dir, '_posts-raw')
+RAW = File.join(dir, '_raw')
 OUTPUT = File.join(dir, '_posts')
 
 def convert(data)
