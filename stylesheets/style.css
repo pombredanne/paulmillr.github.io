@@ -137,12 +137,15 @@ header > .cell > p {
   background-color: #f7f7f7; }
   .half-cell {
     width: 435px;
-    height: 625px; }
+    height: 665px; }
   .cell a, .cell a:visited, .cell h1 {
     color: #f60; }
 
 .projects {
   padding-left: 20px; }
+
+.new-project-type {
+  margin-top: 18px; }
 
 /* Post styles. */
 .post-list, .post-list > li {
