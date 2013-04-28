@@ -32,6 +32,7 @@ layout: base
       {% if post.tags contains 'programming' %}
         <li>
           {{ post.date | date: "%d %b %y" }} »
+          {% if post.language == 'ru' %}<span class="russian">(in russian)</span>{% endif %}
           <a href="{% if post.external_link != null %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
         </li>
       {% endif %}
