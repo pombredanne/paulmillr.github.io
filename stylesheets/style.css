@@ -100,12 +100,31 @@ h1, h2 {
   .post-content h2 {
     font-size: 1.3em; }
 
+.page-title, header > .cell {
+  display: inline-block;
+  float: left;
+  height: 125px; }
+
+.page-title .name {
+  display: block;
+  width: 180px; }
+header > .cell {
+  width: 520px;
+  min-height: 126px;
+  margin-right: 0;
+  padding-right: 50px;
+  position: relative; }
+
 header > .cell > p {
   margin: 0; }
 .header-links {
-  float: right; }
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  width: 40px; }
 .header-link {
   float: left;
+  padding-top: 5px;
   padding-left: 5px; }
   .header-link-image {
     width: 32px; }
@@ -113,20 +132,27 @@ header > .cell > p {
 .author-photo {
   height: 150px;
   float: left;
-  margin-right: 10px; }
+  margin-right: 10px;
+  position: absolute;
+  bottom: 20px;
+  right: 0; }
+  .author-photo > img {
+    border-radius: 100px; }
 
 .page-title {
   clear: both;
   margin: 0 10px 10px 0;
-  padding: 40px 30px 30px 30px;
-  font-size: 60px;
+  padding: 30px;
+  font-size: 45px;
   font-weight: bold;
   text-transform: uppercase;
   color: #fff;
-  background: #0092bf; }
+  background: #0092bf;
+  position: relative; }
 #container > header, #container > #main {
   margin-right: -10px; }
-
+.page-title {
+  width: 330px; }
 .cell {
   font-size: 18px;
   float: left;
@@ -164,6 +190,9 @@ header > .cell > p {
     position: absolute;
     margin-right: 100px; }
 
+.clearfix:before, .clearfix:after {content: " "; display: table; }
+.clearfix:after {clear: both;}
+
 /* =============================================================================
    PLACEHOLDER Media Queries for Responsive Design.
    These override the primary ('mobile first') styles
@@ -176,8 +205,11 @@ header > .cell > p {
     margin: 0 10px; }
     #container > header, #container > #main {
       margin-right: 0; }
-    header > .cell {
-      margin-top: 10px; }
+  .page-title, header > .cell {
+    width: auto;
+    height: auto;
+    display: block;
+    float: none; }
   .page-title {
     margin: 0 0 10px 0; }
   .header-links {
