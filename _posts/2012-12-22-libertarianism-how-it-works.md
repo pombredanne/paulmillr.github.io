@@ -26,20 +26,20 @@ You can find more information about that in [anarcho-capitalist faq](http://www.
 ## On efficiency of competition
 You can often heard that “people are not prepared for freedom”. But you can only feel freedom when you have it. Someone may say that soviet people were not ready for capitalism and slaves were not ready for wage labour, but such steps (abolitionism, dissolution of the Soviet Union) move the world.
 
-If *any* property is privatised and receives holders, it starts to receive the best possible care. Because this is profitable to holder, with proper management. It is not important who actually controls property. The important thing is that noone interferes with it involuntary (for example, state or bandit that takes 50% of profits).
+If *any* property is privatised and receives holders, it starts to receive the best possible care. Because this is profitable to holder, with proper management. It is not important who actually controls property. The important thing is that no-one interferes with it involuntary (for example, state or bandit that takes 50% of profits).
 
 If this really happens, in free market good and efficient entrepreneurs purchase more and more property, because their profits are higher and terms are better, and bad / inefficient entrepreneurs purchase less. As a result, the overall quality of all property rises. Without politics, the market itself punishes inefficient companies and promotes good ones.
 
 ## Private law (police and courts)
->That the public is willing to pay private providers so much shows that the government has already lost a part of its monopoly in violence and that certain functions that the government has usurped are being reprivatized. — Hans-Hermann Hoppe
+>That the public is willing to pay private providers so much shows that the government has already lost a part of its monopoly in violence and that certain functions that the government has usurped are being re-privatized. — Hans-Hermann Hoppe
 
-Usually libertarians are minarchists or anarcho-capitalists. Minarchists think we still need the state — minimal, just for protection. Anarcho-capitalists think that security production can be performed more effectively in the free market. This particular article part expresses anarcho-capitalists point.
+Usually libertarians are minarchists or anarcho-capitalists. Minarchists think we still need the state — minimal, just for protection. Anarcho-capitalists think that security production can be performed more effectively in the free market. This particular article part expresses ancap point.
 
 ### How it works
-* Privatised police / private defence agencies (“roofs”) will provide security and agression insurance services. They compete with other security providers and it comply to privately emerged set of laws.
+* Privatised police / private defence agencies (“roofs”) will provide security and aggression insurance services. They compete with other security providers and it comply to privately emerged set of laws.
 * Privatised courts do arbitration only in such rare cases when PDAs could not reach an agreement with each other, because involving third party is more expensive than addressing the problem in place. PDAs are forced by market to comply with their judgement, otherwise they’ll lose customers and market share as these which don’t adhere to standards.
 * There will be no modern prisons, because they’re tremendously inefficient. Prisons today just maintain convicts with taxpayers money. In a free society, private companies will be forcing aggressors to pay fines for damage done to private property or individuals. Private companies won’t be interested in paying for convicts, so they’ll be forced to pay for themselves. This does not mean they’ll be contained in boxes, as there are much more efficient ways to earn money to pay penalties.
-* Because of voluntary nature of private firms, different people will be able to choose different law codes. For example, islamists will be able to use Sharia Law defence agencies. Of course, it will be applying if only other person uses islamic defense agency too. Otherwise, a common market law code will be applied, just like today with international crimes.
+* Because of voluntary nature of private firms, different people will be able to choose different law codes. For example, islamists will be able to use Sharia Law defence agencies. Of course, it will be applying if only other person uses islamic defence agency too. Otherwise, a common market law code will be applied, just like today with international crimes.
 * There will be no gun control laws. Private defence agencies are not interested in disarming their clients because in that case a possibility that client will be subjected to aggression rises. And the firm is forced to pay insurance for these cases.
 
 ### Advantages
@@ -72,7 +72,7 @@ On the other hand, today, when law is monopolised, those which can afford it, ha
 
 > PDAs will be at constant war with each other
 
-Only initially and only if transition will be fast instead of gradual. More precisely, only for the first several years, if we’ll look at how things worked out for Russia in 1990s. In the end only efficient PDAs will survive and security production will become much better than now. War always has very big costs and it’s unfavorable to fight for long-established firms.
+Only initially and only if transition will be fast instead of gradual. More precisely, only for the first several years, if we’ll look at how things worked out for Russia in 1990s. In the end only efficient PDAs will survive and security production will become much better than now. War always has very big costs and it’s unfavourable to fight for long-established firms.
 
 > Someone will create a PDA that will be radically fanatically its clients regardless of their rightness
 
@@ -93,7 +93,7 @@ All roads, land and ocean in free society will have its owners.
 ### Objections
 
 ## Private money
-In libertarian society there will be no fiat state-emissioned money. Instead of this, market will adopt some voluntary industry standard.
+In libertarian society there will be no fiat printed-by-state money. Instead of this, market will adopt some voluntary industry standard.
 
 ### How it works
 ### Advantages
