@@ -19,9 +19,9 @@ Every section has description of how the life area will work, advantages of such
 * **Conclusion**
 
 ## Definition
-Libertarianism is a political philosophy, that has “non-aggression principle” in its basis. It is a pragmatic philosophy that doesn’t require a change in human nature, it concludes that there will always be bad people and that in general people behave better when they have freedom as compared to when they don’t.
+Libertarianism is a political philosophy, that has “non-aggression principle” in its basis. Basically the idea is that is both a) immoral b) counterproductive to use coercion instead of voluntary associations. With this logic, modern governments are aggressors that are not different from burglars and thieves and should be abolished or at least greatly reduced in size.
 
-You can find more information about that in [anarcho-capitalist faq](http://www.ozarkia.net/bill/anarchism/faq.html).
+It is a pragmatic philosophy that doesn’t require a change in human nature, it concludes that there will always be bad people and that in general people behave better when they have freedom as compared to when they don’t.
 
 ## On efficiency of competition
 You can often heard that “people are not prepared for freedom”. But you can only feel freedom when you have it. Someone may say that soviet people were not ready for capitalism and slaves were not ready for wage labour, but such steps (abolitionism, dissolution of the Soviet Union) move the world.
@@ -88,9 +88,37 @@ Other PDAs wouldn’t tolerate loss of profits as their clients will be disadvan
 All roads, land and ocean in free society will have its owners.
 
 ### How it works
+* As property owners want to get profits from their roads, every car will have a device that will be calculating how much the car had passed and then driver will need to pay a price for this.
+* Highway code will be a standard, which owners may voluntary accept.
+* This does not mean you will need to pay for any movement, many property folks will be allowing it for free, just like today shopping centre owners don’t charge users. Instead, they charge tenants and shop owners.
+
 ### Advantages
+* Overall road quality will increase. Owners won’t be interested in bad roads, because there will be less drivers driving on these so profits of road owners will be less.
+* Ecology will be better. One might imagine a street owner that’s constantly sued by people who live on the street in condos because of massive car pollution. As a consequence, street owner will be forced to charge cars which pollute air more than those which pollute less. Sea or forest owner is interested in decreasing pollution for bigger long-term profits.
+
 ### Real-life example
+Today there are many successful highways in the world, so this works already.
+
+London centre had big traffic problems. They’ve sort of solved it with charging cars for usign the centre.
+
 ### Objections
+> Ah, one more thing for which I need to pay.
+
+You’re already paying for it via your taxes. In fact, you’re paying more, because state’s provision of these goods is not quite effective. Also, you won’t need to pay for every single movement.
+
+> Some road owner will use weird and bad rules
+
+Then the road will become inprofitable because noone will use it.
+
+A nice book called “The Privatization of Roads and Highways” by Walter Block describes how roads will function in free market, their problems and solutions to these problems.
+
+> Corporation will buy all road around district and create a blockade for all citizens.
+
+We have a lot of similar examples in other areas of life today and they aren’t considered as blockades. For example, a company that owns office building leases some space to those who cannot afford the whole building. Theoretically, the company *can* disallow leasers from getting out of the building, but somehow noone does this and even the possibility seems to be funny for us.
+
+The problem is easily solved by adequate lawyers. Lawyer, which will allow something like this will instantly lose reputation and be fired.
+
+Furthermore, land owning does not mean owning of space in the depths of the earth or owning all airspace under the earth. So you will be always available to get away by an aircraft or tunnel under the property.
 
 ## Private money
 In libertarian society there will be no fiat printed-by-state money. Instead of this, market will adopt some voluntary industry standard.
