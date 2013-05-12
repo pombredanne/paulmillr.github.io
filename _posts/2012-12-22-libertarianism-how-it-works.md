@@ -19,7 +19,7 @@ Every section has description of how the life area will work, advantages of such
 * **Conclusion**
 
 ## Definition
-Libertarianism is a political philosophy, that has “non-aggression principle” in its basis. Basically the idea is that is both a) immoral b) counterproductive to use coercion instead of voluntary associations. With this logic, modern governments are aggressors that are not different from burglars and thieves and should be abolished or at least greatly reduced in size.
+Libertarianism is a political philosophy, that has “non-aggression principle” in its basis. Basically the idea is that it is both a) immoral b) counterproductive to use coercion instead of voluntary associations. With this logic, modern governments are aggressors that are not different from burglars and thieves and should be abolished or at least greatly reduced in size.
 
 It is a pragmatic philosophy that doesn’t require a change in human nature, it concludes that there will always be bad people and that in general people behave better when they have freedom as compared to when they don’t.
 
@@ -124,15 +124,41 @@ Furthermore, land owning does not mean owning of space in the depths of the eart
 In libertarian society there will be no fiat printed-by-state money. Instead of this, market will adopt some voluntary industry standard.
 
 ### How it works
+There are several options:
+
+1. Classical: some real resource which has a value in itself will be used as money.
+2. Digital a.k.a. virtual currency.
+
+It is most likely that noone will be able to do issue almost unlimited amount of private money, like governments do today.
+
 ### Advantages
-### Objections
+* There will be no inflation (if issuing won’t be free either)
+* State won’t be able to control monetary flow and create various related disasters, like it did with money of Cyprus citizens in march 2013.
+
+### Real-life example
+Bitcoin is a nice example of real-world currency that is not controlled or issued by any central government. Although it’s primarly used today by various activists and black market (arms, drugs), mainstream slowly adopts it too.
+
+Bitcoins are mined just like gold, but virtually, on PCs. There won’t ever be more than 21M bitcoins.
+
+See this [nice small article about bitcoins](http://alvarofeito.com/articles/the-big-book-of-bitcoin) for more info.
 
 ## Life in general
 Life in general will be much more free.
 
 ### Advantages
+* Legalization of prostitution will increase its quality, greatly decrease sexual slavery.
+* Legalization of drugs will decrease drug price and increase their quality. Heroin folks won’t be robbing ordinary citizens as before, because their drug will be extremely cheap (the reason for this is heroin net cost, it’s like aspirin’s).
+* One more reason for private defence agencies to be more effective is that they don’t need to capture pseudocriminals that don’t actually harm anyone (victimless crimes).
+* Abolishing state standards and others will increase significance of their private and more effective counterparts. For example, there can be a rating agency that will check restaurants, cafes, hotels etc. for quality of their food. Businesses will be competing with each other, so getting a certificate of this institution will be a competitive advantage. There’s clearly zero need for public institutions like [FDA](http://en.wikipedia.org/wiki/Food_and_Drug_Administration) in that case.
+* Abolishing patents (another coercive government monopoly that can’t exist in free market) will allow for two individuals to independently come up with some idea without fear of repression.
+
 ### Real-life example
+Czech Republic has decriminalized heroin and cocaine. Many countries has legalized marijuana or prostitution and everything is fine there.
+
 ### Objections
+> Decriminalization of heavy drugs will decrease society life expectation
+
+> Free market does not work for public goods or natural monopolies
 
 ## Conclusion
 
