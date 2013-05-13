@@ -158,7 +158,15 @@ Czech Republic has decriminalized heroin and cocaine. Many countries has legaliz
 ### Objections
 > Decriminalization of heavy drugs will decrease society life expectation
 
+With this logic, extreme sport should be prohibited, because those who practice it live less.
+
+If drugs are someone’s free choice, it’s absolutely up to him, but he must not be treated as convict.
+
 > Free market does not work for public goods or natural monopolies
+
+It’s popular today to treat monopolies in some areas of life (gas, water, public transport, electricity) as natural. It is considered that privatisation of such enterprises will create less effective and more costly products.
+
+Their efficiency was not proved, in fact, it was disproved in the past and present. These enterprises are simply big business andsymbiosis. For more details and historical facts see [“The Myth of Natural Monopoly”](http://mises.org/daily/5266/).
 
 ## Conclusion
 
