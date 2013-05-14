@@ -6,7 +6,7 @@ language: en
 tags: ['libertarianism']
 ---
 
-My current thoughts on anarcho-capitalism and libertarianism.
+My current thoughts on anarcho-capitalism and libertarianism ([russian version](http://paulmillr.com/posts/libertarianism-how-it-works-ru/)).
 
 Every section has description of how the life area will work, advantages of such way and responses to frequently appearing counter-arguments to anarcho-capitalists model.
 
@@ -24,7 +24,7 @@ Libertarianism is a political philosophy, that has “non-aggression principle�
 It is a pragmatic philosophy that doesn’t require a change in human nature, it concludes that there will always be bad people and that in general people behave better when they have freedom as compared to when they don’t.
 
 ## On efficiency of competition
-You can often heard that “people are not prepared for freedom”. But you can only feel freedom when you have it. Someone may say that soviet people were not ready for capitalism and slaves were not ready for wage labour, but such steps (abolitionism, dissolution of the Soviet Union) move the world.
+You can often hear that “people are not prepared for freedom”. But you can only feel freedom when you have it. Someone may say that soviet people were not ready for capitalism and slaves were not ready for wage labour, but such steps (abolitionism, dissolution of the Soviet Union) move the world.
 
 If *any* property is privatised and receives holders, it starts to receive the best possible care. Because this is profitable to holder, with proper management. It is not important who actually controls property. The important thing is that no-one interferes with it involuntary (for example, state or bandit that takes 50% of profits).
 
@@ -33,13 +33,13 @@ If this really happens, in free market good and efficient entrepreneurs purchase
 ## Private law (police and courts)
 >That the public is willing to pay private providers so much shows that the government has already lost a part of its monopoly in violence and that certain functions that the government has usurped are being re-privatized. — Hans-Hermann Hoppe
 
-Usually libertarians are minarchists or anarcho-capitalists. Minarchists think we still need the state — minimal, just for protection. Anarcho-capitalists think that security production can be performed more effectively in the free market. This particular article part expresses ancap point.
+Usually libertarians are minarchists or anarcho-capitalists. Minarchists think we still need the state — minimal, just for protection. Anarcho-capitalists think that security production can be performed more effectively in the free market. This particular section expresses ancap point.
 
 ### How it works
-* Privatised police / private defence agencies (“roofs”) will provide security and aggression insurance services. They compete with other security providers and it comply to privately emerged set of laws.
+* Privatised police / private defence agencies (“roofs”) will provide security and aggression insurance services. They compete with other security providers and comply to privately emerged set of laws.
 * Privatised courts do arbitration only in such rare cases when PDAs could not reach an agreement with each other, because involving third party is more expensive than addressing the problem in place. PDAs are forced by market to comply with their judgement, otherwise they’ll lose customers and market share as these which don’t adhere to standards.
 * There will be no modern prisons, because they’re tremendously inefficient. Prisons today just maintain convicts with taxpayers money. In a free society, private companies will be forcing aggressors to pay fines for damage done to private property or individuals. Private companies won’t be interested in paying for convicts, so they’ll be forced to pay for themselves. This does not mean they’ll be contained in boxes, as there are much more efficient ways to earn money to pay penalties.
-* Because of voluntary nature of private firms, different people will be able to choose different law codes. For example, islamists will be able to use Sharia Law defence agencies. Of course, it will be applying if only other person uses islamic defence agency too. Otherwise, a common market law code will be applied, just like today with international crimes.
+* Because of voluntary nature of private firms, different people will be able to choose different law codes. For example, muslims will be able to use Sharia Law defence agencies. Of course, it will be applying if only other person uses islamic defence agency too. Otherwise, a common market law code will be applied, just like today with international crimes.
 * There will be no gun control laws. Private defence agencies are not interested in disarming their clients because in that case a possibility that client will be subjected to aggression rises. And the firm is forced to pay insurance for these cases.
 
 ### Advantages
@@ -49,7 +49,7 @@ Usually libertarians are minarchists or anarcho-capitalists. Minarchists think w
 
 ### Real-life examples
 1. VIP persons and especially state servants (top-level politics) today usually hire private security firms for personal security.
-2. Many states are already hiring private armies. For example, USA hired Blackwater during afghan war.
+2. Many states are already hiring private armies. For example, USA hired Blackwater during Afghan war.
 
 In 1990s, in Russia, state collapsed and was not been able to protect citizens and businesses. Private defence firms (roofs) had emerged.
 
@@ -74,7 +74,7 @@ On the other hand, today, when law is monopolised, those which can afford it, ha
 
 Only initially and only if transition will be fast instead of gradual. More precisely, only for the first several years, if we’ll look at how things worked out for Russia in 1990s. In the end only efficient PDAs will survive and security production will become much better than now. War always has very big costs and it’s unfavourable to fight for long-established firms.
 
-> Someone will create a PDA that will be radically fanatically its clients regardless of their rightness
+> Someone will create a PDA that will be radically fanatically defend its clients regardless of their rightness
 
 Other PDAs wouldn’t tolerate loss of profits as their clients will be disadvantaged. Then other firms will likely be cooperating in order to defeat bad PDA.
 
@@ -99,7 +99,7 @@ All roads, land and ocean in free society will have its owners.
 ### Real-life example
 Today there are many successful highways in the world, so this works already.
 
-London centre had big traffic problems. They’ve sort of solved it with charging cars for usign the centre.
+London centre had big traffic problems. They’ve sort of solved it with charging cars for using the centre.
 
 ### Objections
 > Ah, one more thing for which I need to pay.
@@ -108,13 +108,13 @@ You’re already paying for it via your taxes. In fact, you’re paying more, be
 
 > Some road owner will use weird and bad rules
 
-Then the road will become inprofitable because noone will use it.
+Then the road will become inprofitable because no one will use it.
 
 A nice book called “The Privatization of Roads and Highways” by Walter Block describes how roads will function in free market, their problems and solutions to these problems.
 
 > Corporation will buy all road around district and create a blockade for all citizens.
 
-We have a lot of similar examples in other areas of life today and they aren’t considered as blockades. For example, a company that owns office building leases some space to those who cannot afford the whole building. Theoretically, the company *can* disallow leasers from getting out of the building, but somehow noone does this and even the possibility seems to be funny for us.
+We have a lot of similar examples in other areas of life today and they aren’t considered as blockades. For example, a company that owns office building leases some space to those who cannot afford the whole building. Theoretically, the company *can* disallow leasers from getting out of the building, but somehow no one does this and even the possibility seems to be funny for us.
 
 The problem is easily solved by adequate lawyers. Lawyer, which will allow something like this will instantly lose reputation and be fired.
 
@@ -129,7 +129,7 @@ There are several options:
 1. Classical: some real resource which has a value in itself will be used as money.
 2. Digital a.k.a. virtual currency.
 
-It is most likely that noone will be able to do issue almost unlimited amount of private money, like governments do today.
+It is most likely that no one will be able to do issue almost unlimited amount of private money, like governments do today.
 
 ### Advantages
 * There will be no inflation (if issuing won’t be free either)
@@ -146,17 +146,17 @@ See this [nice small article about bitcoins](http://alvarofeito.com/articles/the
 Life in general will be much more free.
 
 ### Advantages
-* Legalization of prostitution will increase its quality, greatly decrease sexual slavery.
-* Legalization of drugs will decrease drug price and increase their quality. Heroin folks won’t be robbing ordinary citizens as before, because their drug will be extremely cheap (the reason for this is heroin net cost, it’s like aspirin’s).
-* One more reason for private defence agencies to be more effective is that they don’t need to capture pseudocriminals that don’t actually harm anyone (victimless crimes).
+* Legalisation of prostitution will increase its quality, greatly decrease sexual slavery.
+* Legalisation of drugs will decrease drug price and increase their quality. Heroin folks won’t be robbing ordinary citizens as before, because their drug will be extremely cheap (the reason for this is heroin net cost, it’s like aspirin’s).
+* One more reason for private defence agencies to be more effective is that they don’t need to capture pseudocriminals that don’t actually harm anyone (victimless crimes.)
 * Abolishing state standards and others will increase significance of their private and more effective counterparts. For example, there can be a rating agency that will check restaurants, cafes, hotels etc. for quality of their food. Businesses will be competing with each other, so getting a certificate of this institution will be a competitive advantage. There’s clearly zero need for public institutions like [FDA](http://en.wikipedia.org/wiki/Food_and_Drug_Administration) in that case.
 * Abolishing patents (another coercive government monopoly that can’t exist in free market) will allow for two individuals to independently come up with some idea without fear of repression.
 
 ### Real-life example
-Czech Republic has decriminalized heroin and cocaine. Many countries has legalized marijuana or prostitution and everything is fine there.
+Czech Republic has decriminalised heroin and cocaine. Many countries has legalised marijuana or prostitution and everything is fine there.
 
 ### Objections
-> Decriminalization of heavy drugs will decrease society life expectation
+> Decriminalisation of heavy drugs will decrease society life expectation
 
 With this logic, extreme sport should be prohibited, because those who practice it live less.
 
