@@ -26,7 +26,7 @@ It is a pragmatic philosophy that doesn’t require a change in human nature, it
 ## On efficiency of competition
 You can often hear that “people are not prepared for freedom”. But you can only feel freedom when you have it. Someone may say that soviet people were not ready for capitalism and slaves were not ready for wage labour, but such steps (abolitionism, dissolution of the Soviet Union) move the world.
 
-If *any* property is privatised and receives holders, it starts to receive the best possible care. Because this is profitable to holder, with proper management. It is not important who actually controls property. The important thing is that no-one interferes with it involuntary (for example, state or bandit that takes 50% of profits).
+If *any* property is privatised and receives holders, it starts to receive the best possible care. Because this is profitable to holder, with proper management. It is not important who actually controls the property. The important thing is that no-one interferes with it involuntarily (for example, state or bandit that takes 50% of profits).
 
 If this really happens, in free market good and efficient entrepreneurs purchase more and more property, because their profits are higher and terms are better, and bad / inefficient entrepreneurs purchase less. As a result, the overall quality of all property rises. Without politics, the market itself punishes inefficient companies and promotes good ones.
 
@@ -45,15 +45,15 @@ Usually libertarians are minarchists or anarcho-capitalists. Minarchists think w
 ### Advantages
 * Quality of security providers and courts will rise. They won’t have territorial monopolies as before and will be forced to comply at least with industrial standard. When some corporation won’t be able to protect its clients, it will lose them and money.
 * There will be less corruption in courts and defence agencies, because private companies are less interested in it.
-* Law-abiding citizens won’t be forced to pay for prisoners. Today USA spends 30K$/year on each convict. Norway people spend 100K$/year.
+* Law-abiding citizens won’t be forced to pay for prisoners. Today USA spends 30K$/year on each convict. Norwegian people spend 100K$/year.
 
 ### Real-life examples
-1. VIP persons and especially state servants (top-level politics) today usually hire private security firms for personal security.
+1. Important people and especially state servants (top-level politics) today usually hire private security firms for personal security.
 2. Many states are already hiring private armies. For example, USA hired Blackwater during Afghan war.
 
 In 1990s, in Russia, state collapsed and was not been able to protect citizens and businesses. Private defence firms (roofs) had emerged.
 
-At first, most firms were protection racketeers, requiring a tribute for ensuring that they don’t touch payer’s property.
+At first, most firms were protection racketeers, requiring a toll for ensuring that they don’t touch payer’s property.
 
 But then, because of competition, only those agencies had survived, which cared more about their long-term relationships with clients.
 
@@ -78,7 +78,7 @@ Only initially and only if transition will be fast instead of gradual. More prec
 
 Other PDAs wouldn’t tolerate loss of profits as their clients will be disadvantaged. Then other firms will likely be cooperating in order to defeat bad PDA.
 
-> Poor people, which can’t afford security, will be constant victims of aggression
+> Poor people, who can’t afford security, will be constant victims of aggression
 
 1. Some companies will have lower prices than other that poor people will be more likely able to afford.
 2. Some companies will want to provide their services for free to some people in order to increase their reputation.
@@ -89,7 +89,7 @@ All roads, land and ocean in free society will have its owners.
 
 ### How it works
 * As property owners want to get profits from their roads, every car will have a device that will be calculating how much the car had passed and then driver will need to pay a price for this.
-* Highway code will be a standard, which owners may voluntary accept.
+* Highway code will be a standard, which owners may voluntarily accept.
 * This does not mean you will need to pay for any movement, many property folks will be allowing it for free, just like today shopping centre owners don’t charge users. Instead, they charge tenants and shop owners.
 
 ### Advantages
@@ -108,7 +108,7 @@ You’re already paying for it via your taxes. In fact, you’re paying more, be
 
 > Some road owner will use weird and bad rules
 
-Then the road will become inprofitable because no one will use it.
+Then the road will become unprofitable because no one will use it.
 
 A nice book called “The Privatization of Roads and Highways” by Walter Block describes how roads will function in free market, their problems and solutions to these problems.
 
@@ -133,14 +133,14 @@ It is most likely that no one will be able to do issue almost unlimited amount o
 
 ### Advantages
 * There will be no inflation (if issuing won’t be free either)
-* State won’t be able to control monetary flow and create various related disasters, like it did with money of Cyprus citizens in march 2013.
+* State won’t be able to control monetary flow and create various related disasters, like it did with money of Cyprus citizens in March 2013.
 
 ### Real-life example
-Bitcoin is a nice example of real-world currency that is not controlled or issued by any central government. Although it’s primarly used today by various activists and black market (arms, drugs), mainstream slowly adopts it too.
+Bitcoin is a nice example of real-world currency that is not controlled or issued by any central government. Although it’s primarily used today by various activists and black market (arms, drugs), mainstream slowly adopts it too.
 
 Bitcoins are mined just like gold, but virtually, on PCs. There won’t ever be more than 21M bitcoins.
 
-See this [nice small article about bitcoins](http://alvarofeito.com/articles/the-big-book-of-bitcoin) for more info.
+Check this [nice small article about bitcoins](http://alvarofeito.com/articles/the-big-book-of-bitcoin) for more info.
 
 ## Life in general
 Life in general will be much more free.
@@ -158,7 +158,7 @@ Czech Republic has decriminalised heroin and cocaine. Many countries has legalis
 ### Objections
 > Decriminalisation of heavy drugs will decrease society life expectation
 
-With this logic, extreme sport should be prohibited, because those who practice it live less.
+With this logic, extreme sports should be prohibited, because those who practice it live less.
 
 If drugs are someone’s free choice, it’s absolutely up to him, but he must not be treated as convict.
 
@@ -166,13 +166,13 @@ If drugs are someone’s free choice, it’s absolutely up to him, but he must n
 
 It’s popular today to treat monopolies in some areas of life (gas, water, public transport, electricity) as natural. It is considered that privatisation of such enterprises will create less effective and more costly products.
 
-Their efficiency was not proved, in fact, it was disproved in the past and present. These enterprises are simply big business andsymbiosis. For more details and historical facts see [“The Myth of Natural Monopoly”](http://mises.org/daily/5266/).
+Their efficiency was not proved, in fact, it was disproved in the past and present. These enterprises are simply a symbiosis of big business and government. For more details and historical facts see [“The Myth of Natural Monopoly”](http://mises.org/daily/5266/).
 
 ## Conclusion
 
 There are hundreds of facts that freedom is more efficient that regulations. Unfortunately, mainstream political movements still prefer Big Government.
 
-We (libertarians) should educate people about the benefits, this is the only legit way libertarian society can be reached in our timelines.
+We (libertarians) should educate people about the benefits, this is the only legit way libertarian society can be reached in our lifetimes.
 
 There are plenty of books written on libertarianism and if you are interested in any, I recommend to read [my post on the recommended literature](http://paulmillr.com/posts/libertarian-reading-list/).
 
