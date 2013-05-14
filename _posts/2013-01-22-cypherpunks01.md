@@ -28,5 +28,3 @@ Although, some sites:
 3. already have account “cypherpunks01” and someone bad used non-standard password
 
 This simple improvement of original cypherpunks idea shall fix these quirks.
-
-Feel free to submit proposals and improvements [on GitHub](https://github.com/paulmillr/paulmillr.github.com/issues).

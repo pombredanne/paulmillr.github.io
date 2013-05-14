@@ -8,7 +8,10 @@ layout: base
 {% else %}
   <section class="cell post">
     <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    <section class="post-date">{{ page.date | date: "%d %B %y" }}</section>
+    <section class="post-date">
+      {{ page.date | date: "%d %B %y" }}
+      <a class="post-suggest-improvement" href="https://github.com/paulmillr/paulmillr.github.com/blob/master/_posts/{{page.date | date: "%Y-%m-%d" }}-{{page.id | remove_first: '/posts/'}}.md">Edit post and suggest an improvement</a>
+    </section>
     <section class="post-content">{{ content }}</section>
     <div class="page-comments"></div>
   </section>

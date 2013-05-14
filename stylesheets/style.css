@@ -181,6 +181,9 @@ header > .cell > p {
 .post-date {
   color: #888; }
 
+.post-suggest-improvement {
+  float: right; }
+
 .post-content img {
   max-width: 930px; }
 

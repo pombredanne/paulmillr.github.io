@@ -175,5 +175,3 @@ There are hundreds of facts that freedom is more efficient that regulations. Unf
 We (libertarians) should educate people about the benefits, this is the only legit way libertarian society can be reached in our lifetimes.
 
 There are plenty of books written on libertarianism and if you are interested in any, I recommend to read [my post on the recommended literature](http://paulmillr.com/posts/libertarian-reading-list/).
-
-Suggestions and improvements of this article are freely accepted [on GitHub](https://github.com/paulmillr/paulmillr.github.com).
