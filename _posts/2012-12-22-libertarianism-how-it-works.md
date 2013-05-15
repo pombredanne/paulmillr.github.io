@@ -10,13 +10,15 @@ My current thoughts on anarcho-capitalism and libertarianism ([russian version](
 
 Every section has description of how the life area will work, advantages of such way and responses to frequently appearing counter-arguments to anarcho-capitalists model.
 
-* **Definition**
-* **On efficiency of competition**
-* **Private law (police and courts)**
-* **Private roads, land and ocean**
-* **Private money**
-* **Life in general**
-* **Conclusion**
+Contents:
+
+* Definition
+* On efficiency of competition
+* Private law (police and courts)
+* Private roads, land and ocean
+* Private money
+* Life in general
+* Conclusion
 
 ## Definition
 Libertarianism is a political philosophy, that has “non-aggression principle” in its basis. Basically the idea is that it is both a) immoral b) counterproductive to use coercion instead of voluntary associations. With this logic, modern governments are aggressors that are not different from burglars and thieves and should be abolished or at least greatly reduced in size.
@@ -40,7 +42,7 @@ Usually libertarians are minarchists or anarcho-capitalists. Minarchists think w
 * Privatised courts do arbitration only in such rare cases when PDAs could not reach an agreement with each other, because involving third party is more expensive than addressing the problem in place. PDAs are forced by market to comply with their judgement, otherwise they’ll lose customers and market share as these which don’t adhere to standards.
 * There will be no modern prisons, because they’re tremendously inefficient. Prisons today just maintain convicts with taxpayers money. In a free society, private companies will be forcing aggressors to pay fines for damage done to private property or individuals. Private companies won’t be interested in paying for convicts, so they’ll be forced to pay for themselves. This does not mean they’ll be contained in boxes, as there are much more efficient ways to earn money to pay penalties.
 * Because of voluntary nature of private firms, different people will be able to choose different law codes. For example, muslims will be able to use Sharia Law defence agencies. Of course, it will be applying if only other person uses islamic defence agency too. Otherwise, a common market law code will be applied, just like today with international crimes.
-* There will be no gun control laws. Private defence agencies are not interested in disarming their clients because in that case a possibility that client will be subjected to aggression rises. And the firm is forced to pay insurance for these cases.
+* There will be no laws, prohibiting gun ownership. Private defence agencies are not interested in disarming their clients because in that case a possibility that client will be subjected to aggression rises. And the firm is forced to pay insurance for these cases.
 
 ### Advantages
 * Quality of security providers and courts will rise. They won’t have territorial monopolies as before and will be forced to comply at least with industrial standard. When some corporation won’t be able to protect its clients, it will lose them and money.
@@ -153,7 +155,7 @@ Life in general will be much more free.
 * Abolishing patents (another coercive government monopoly that can’t exist in free market) will allow for two individuals to independently come up with some idea without fear of repression.
 
 ### Real-life example
-Czech Republic has decriminalised heroin and cocaine. Many countries has legalised marijuana or prostitution and everything is fine there.
+Many countries has legalised marijuana and other drugs or prostitution and everything is fine there.
 
 ### Objections
 > Decriminalisation of heavy drugs will decrease society life expectation
