@@ -21,16 +21,28 @@ Contents:
 * Conclusion
 
 ## Definition
-Libertarianism is a political philosophy, that has “non-aggression principle” in its basis. Basically the idea is that it is both a) immoral b) counterproductive to use coercion instead of voluntary associations. With this logic, modern governments are aggressors that are not different from burglars and thieves and should be abolished or at least greatly reduced in size.
+
+**Libertarianism** is a set of related political philosophies that uphold liberty as the highest political end. It is the antonym to authoritarianism.
+
+Libertarianism draws both on ethical theory and on utilitarian policy proposals. As an introduction, there are four major pillars of libertarian ethics:
+
+1. **Self ownership** - you own yourself and as long as you are a peaceful individual no one may legitimately violate (initiate aggression against) your body.
+2. **Private Property** - You may peacefully and absolutely hold property which you have made from previously unowned resources or which was given to you as a gift or in a contract.
+3. **Contract theory** - you may, by means of explicit and enforceable contracts, arrange for the exchange of property for services or other property
+4. **Non-aggression principle** - you may not initiate aggression against anyone's property or self.
+
+Libertarianism concludes that modern governments are aggressors, and everything they do can be done more efficiently on a free market.
 
 It is a pragmatic philosophy that doesn’t require a change in human nature, it concludes that there will always be bad people and that in general people behave better when they have freedom as compared to when they don’t.
 
-## On efficiency of competition
-You can often hear that “people are not prepared for freedom”. But you can only feel freedom when you have it. Someone may say that soviet people were not ready for capitalism and slaves were not ready for wage labour, but such steps (abolitionism, dissolution of the Soviet Union) move the world.
+(as a side note, there are two types of libertarianism — socialist anti-private-property and capitalist, we’ll only discuss the second).
 
+## On efficiency of competition
 If *any* property is privatised and receives holders, it starts to receive the best possible care. Because this is profitable to holder, with proper management. It is not important who actually controls the property. The important thing is that no-one interferes with it involuntarily (for example, state or bandit that takes 50% of profits).
 
 If this really happens, in free market good and efficient entrepreneurs purchase more and more property, because their profits are higher and terms are better, and bad / inefficient entrepreneurs purchase less. As a result, the overall quality of all property rises. Without politics, the market itself punishes inefficient companies and promotes good ones.
+
+You can often hear that “people are not prepared for freedom”. But you can only feel freedom when you have it. Someone may say that soviet people were not ready for capitalism and slaves were not ready for wage labour, but such steps (abolitionism, dissolution of the Soviet Union) move the world.
 
 ## Private law (police and courts)
 >That the public is willing to pay private providers so much shows that the government has already lost a part of its monopoly in violence and that certain functions that the government has usurped are being re-privatized. — Hans-Hermann Hoppe
