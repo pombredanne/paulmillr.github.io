@@ -26,20 +26,10 @@
   font-style: italic;
 }
 
-::-moz-selection {
-  background: #f14a29;
-  color: #fff;
-  text-shadow: none; }
-
-::selection {
-  background: #f14a29;
-  color: #fff;
-  text-shadow: none; }
-
 body {
   font-family: 'Iowan Old Style', Palatino, "Palatino Linotype", Helvetica, serif;
   margin-top: 1em;
-  color: #000;
+  color: #333;
   background-color: #d9d9d9; }
 
 #container {
@@ -164,8 +154,8 @@ header > .cell > p {
   .half-cell {
     width: 435px;
     height: 665px; }
-  .cell a, .cell a:visited, .cell h1 {
-    color: #f60; }
+  .cell h1 {
+    color: #0092bf; }
 
 .projects {
   padding-left: 20px; }
@@ -208,6 +198,8 @@ header > .cell > p {
     margin: 0 10px; }
     #container > header, #container > #main {
       margin-right: 0; }
+  h2 {
+    font-size: 1.75em; }
   .page-title, header > .cell {
     width: auto;
     height: auto;
