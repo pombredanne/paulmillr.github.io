@@ -1,0 +1,167 @@
+---
+layout: post
+title: 'Your pull request won’t be accepted'
+tags: ['programming']
+published: false
+---
+
+<style>
+svg {
+  font-size: 16px;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis text {
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  height: 200px;
+  text-anchor: end !important;
+}
+
+.bar {
+  fill: #4682B4;
+}
+
+.x.axis path {
+  display: none;
+}
+.x.axis line {
+  display: none;
+}
+
+.lang-c {fill: #555;}
+.lang-c\# {fill: #5a25a2;}
+.lang-c\+\+ {fill: #f34b7d;}
+.lang-coffeescript {fill: #244776;}
+.lang-haskell {fill: #29b544;}
+.lang-java {fill: #b07219;}
+.lang-javascript {fill: #f15501;}
+.lang-objective-c {fill: #438eff;}
+.lang-perl {fill: #0298c3;}
+.lang-php {fill: #6e03c1;}
+.lang-python {fill: #3581ba;}
+.lang-ruby {fill: #701516;}
+.lang-scala {fill: #7dd3b0;}
+
+#tooltip {
+  position: fixed;
+  left: 200px;
+  top: 94px;
+  background-color: white;
+}
+
+</style>
+
+<div id="pull-req-stats"></div>
+<div id="tooltip"></div>
+<div style="clear:both"></div>
+
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script>
+var margin = {top: 20, right: 20, bottom: 30, left: 140},
+    width = 860 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var formatPercent = d3.format(".0%");
+
+var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .1);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .tickFormat(formatPercent);
+
+var svg = d3.select("#pull-req-stats").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom + 200)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// position above or below axis
+var position = function(d) {
+  if (d.change > 0) {
+    d3.select(this).style('bottom', '100px');
+  } else if (d.change < 0) {
+    d3.select(this).style('top', '100px');
+  }
+};
+
+// red/green coloring
+var colorize = function(d) {
+  if (d.change > 0) {
+    return 'green';
+  } else if (d.change < 0) {
+    return 'red';
+  }
+};
+
+var hover = function(d) {
+  console.log('Selected', arguments);
+  d3.select("#tooltip").html(d.repo);
+};
+
+var draw = function(rawData) {
+  var languages = ["c", "c++", "c#", "coffeescript", "haskell", "java", "javascript", "objective-c", "perl", "php", "python", "ruby", "scala"];
+
+  var data = rawData.map(function(_) {
+    var language = _.tags.filter(function(_) {
+      return languages.indexOf(_) !== -1;
+    })[0];
+    return {
+      repo: _.repo.split('/')[1],
+      stats: (_.closed / (_.merged + _.closed)),
+      language: language
+    };
+  });
+
+  x.domain(data.map(function(d) { return d.repo; }));
+  y.domain([0, d3.max(data, function(d) { return d.stats; })]);
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(-15," + height * 1.03 + ")")
+      .call(xAxis);
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Acceptance rate");
+
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", function(d) {
+        return "bar lang-" + d.language;
+      })
+      .attr("x", function(d) { return x(d.repo); })
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.stats); })
+      .attr("height", function(d) { return height - y(d.stats); })
+      .on("mouseover", hover);
+};
+
+d3.json('/github-pull-req-stats/repos.json', function(error, json) {
+  if (error) console.error(error);
+  console.log(json)
+  draw(json);
+});
+
+</script>
