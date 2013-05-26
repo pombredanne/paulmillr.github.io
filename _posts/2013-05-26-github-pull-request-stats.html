@@ -48,22 +48,18 @@ svg {
 .lang-ruby {fill: #701516;}
 .lang-scala {fill: #7dd3b0;}
 
-#tooltip {
-  position: fixed;
-  left: 200px;
-  top: 94px;
-  background-color: white;
-}
-
 </style>
+<button id="sort">Sort</button>
+<select>
+  <option>All languages</option>
+</select>
 
+<div id="tooltip">Current: <span>none</span></div>
 <div id="pull-req-stats"></div>
-<div id="tooltip"></div>
-<div style="clear:both"></div>
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script>
-var margin = {top: 20, right: 20, bottom: 30, left: 140},
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 860 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
@@ -108,24 +104,15 @@ var colorize = function(d) {
   }
 };
 
-var hover = function(d) {
-  console.log('Selected', arguments);
-  d3.select("#tooltip").html(d.repo);
+var hover = function(d, x, y) {
+  d3.select("#tooltip > span").html(
+    '<a href="https://github.com/' + d.path + '">' + d.repo + '</a>. ' +
+    'Merged: ' + d.merged + ' (' + (d.stats * 100).toFixed(2) + '%). Total: ' + (d.merged + d.closed) + ' pulls.'
+  );
 };
 
 var draw = function(rawData) {
-  var languages = ["c", "c++", "c#", "coffeescript", "haskell", "java", "javascript", "objective-c", "perl", "php", "python", "ruby", "scala"];
-
-  var data = rawData.map(function(_) {
-    var language = _.tags.filter(function(_) {
-      return languages.indexOf(_) !== -1;
-    })[0];
-    return {
-      repo: _.repo.split('/')[1],
-      stats: (_.closed / (_.merged + _.closed)),
-      language: language
-    };
-  });
+  var data = rawData;
 
   x.domain(data.map(function(d) { return d.repo; }));
   y.domain([0, d3.max(data, function(d) { return d.stats; })]);
@@ -158,10 +145,39 @@ var draw = function(rawData) {
       .on("mouseover", hover);
 };
 
+var getAverage = function(list) {return list.reduce(function(a, b) {return a + b}, 0) / list.length;}
+
 d3.json('/github-pull-req-stats/repos.json', function(error, json) {
   if (error) console.error(error);
-  console.log(json)
-  draw(json);
+  var languages = ["c", "c++", "c#", "coffeescript", "haskell", "java", "javascript", "objective-c", "perl", "php", "python", "ruby", "scala"];
+
+  var data = json.map(function(_) {
+    var language = _.tags.filter(function(_) {
+      return languages.indexOf(_) !== -1;
+    })[0];
+    return {
+      repo: _.repo.split('/')[1],
+      path: _.repo,
+      merged: _.merged,
+      closed: _.closed,
+      stats: (_.merged / (_.merged + _.closed)),
+      language: language
+    };
+  }).filter(function(_) {return _.stats;});
+
+  var langData = data.reduce(function(obj, _) {
+    if (!obj[_.language]) obj[_.language] = [];
+    console.log(4, obj, _.language);
+    obj[_.language].push(_.stats);
+    return obj;
+  }, {});
+
+  var languagesData = Object.keys(langData).map(function(_) {
+    return {repo: _, stats: getAverage(langData[_])};
+  });
+  console.log(languagesData)
+
+  draw(data);
 });
 
 </script>
