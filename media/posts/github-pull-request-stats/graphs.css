@@ -1,0 +1,43 @@
+svg {
+  font-size: 16px;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis text {
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  height: 200px;
+  text-anchor: end !important;
+}
+
+.bar {
+  fill: #4682B4;
+}
+
+.x.axis path {
+  display: none;
+}
+.x.axis line {
+  display: none;
+}
+
+.lang-c {fill: #555;}
+.lang-c\# {fill: #5a25a2;}
+.lang-c\+\+ {fill: #f34b7d;}
+.lang-coffeescript {fill: #244776;}
+.lang-haskell {fill: #29b544;}
+.lang-java {fill: #b07219;}
+.lang-javascript {fill: #f15501;}
+.lang-objective-c {fill: #438eff;}
+.lang-perl {fill: #0298c3;}
+.lang-php {fill: #6e03c1;}
+.lang-python {fill: #3581ba;}
+.lang-ruby {fill: #701516;}
+.lang-scala {fill: #7dd3b0;}
