@@ -6,7 +6,7 @@ tags: ['programming']
 
 <link rel="stylesheet" type="text/css" href="/media/posts/github-pull-request-stats/graphs.css" />
 
-As a frequent contributor to open-source projects, i’m curious about probability of acceptance of my contribution. Of course, it largerly depends on whether patch fits project or not, but still some projects are less likely to accept your pull.
+As a frequent contributor to open-source projects, i’m curious about probability of acceptance of my contribution. Of course, it largerly depends on whether patch fits project or not, but still some projects are less likely to accept your pull. And in some popular projects, there are a lot of low-quality pull request that should not be accepted.
 
 So i’ve made this summary and mined GitHub data for some popular projects.
 
@@ -114,16 +114,12 @@ Redis wins in this category without doubt.
 ### [Node.js](https://github.com/joyent/node)
 **112 merged (6.07%) from 1845**
 
-The worst result. Node guys pick many pulls manually and merge them by hand so that pull request metrics don’t show much. Somehow related to legal stuff probably. AFAIK they want all contributors to sign CLAs.
+The worst result. Node suffers from its popularity too. There are many low-quality pulls that does not get accepted.
 
-CLAs bureucracy always reduced my desire to contribute to an open-source project. For some companies it is a legal requirement because of shitty laws, but i’m glad there are still big projects without CLAs, like Rails.
+Also node guys pick many pulls manually and merge them by hand so that pull request metrics don’t show much. Somehow related to legal stuff probably. AFAIK they want all contributors to sign CLAs. CLAs bureucracy always reduced my desire to contribute to an open-source project. For some companies it is a legal requirement because of shitty laws, but i’m glad there are still big projects without CLAs, like Rails.
 
-## Summary
+## Winners
 
 Taking into account only projects with 250+ pulls, **Akka** and **backbone-fundamentals** with 87% are winners and receive GitHub top pulls #1 award I drew in MS Paint.
 
 ![](http://f.cl.ly/items/141q460a1p2c0q1H3A1M/winner.png)
-
-**Node.js** with 6.07% receives GitHub top pulls loser award.
-
-![](http://f.cl.ly/items/2m3O12190L3M1S06371f/loser.png)
