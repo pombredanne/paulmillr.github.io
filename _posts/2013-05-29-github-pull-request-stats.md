@@ -2,7 +2,6 @@
 layout: post
 title: 'Your pull request won’t be accepted'
 tags: ['programming']
-published: true
 ---
 
 <link rel="stylesheet" type="text/css" href="/media/posts/github-pull-request-stats/graphs.css" />
@@ -20,11 +19,14 @@ Some projects accept much more pull requests (as a percentage of total) than oth
 <div id="repo-stats"> </div>
 <div id="lang-stats"> </div>
 <div id="tag-stats"> </div>
+
+([graphs d3.js source code](https://github.com/paulmillr/paulmillr.github.com/blob/master/media/posts/github-pull-request-stats/graphs.js))
+
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"> </script>
 <script>var a;</script>
 <script src="/media/posts/github-pull-request-stats/graphs.js"> </script>
 
-Lets start with [Jashkenas’](http://ashkenas.com) projects.
+Lets then start with [Jashkenas’](http://ashkenas.com) projects.
 
 ### [CoffeeScript](https://github.com/jashkenas/coffee-script)
 **215 merged (56.58%) from 380**
@@ -89,7 +91,7 @@ Rails guys take 13 pulls from every 20. Pretty good result as compared to other 
 ### [Stylus](https://github.com/LearnBoost/stylus)
 **125 merged (70%) from 178**
 
-Arguably the best result from stylesheet languages.
+Arguably the best result from stylesheet languages. The result is also similar to other [@tjholowaychuk](http://tj-holowaychuk.com) projects, like mocha, jade or express.
 
 * [Sass](https://github.com/) has **45 merged pulls (38%) from 118**
 * [LESS](https://github.com/) got **64 merged pulls (21%) from 295**
@@ -103,13 +105,25 @@ Book pull requests usually include only really relevant stuff and typo fixes, wh
 
 ### Databases
 
-* [Elasticsearch]()
-* [Redis]()
-* [MongoDB]()
+Redis wins in this category without doubt.
+
+* [Elasticsearch](https://github.com/elasticsearch/elasticsearch) has **44 merged pulls (11.1%) from 395**
+* [Redis](https://github.com/antirez/redis) has **106 merged pulls (43.8%) from 242**
+* [MongoDB](https://github.com/mongodb/mongo) has **93 merged pulls (30%) from 303**
 
 ### [Node.js](https://github.com/joyent/node)
 **112 merged (6.07%) from 1845**
 
-The worst result. Node guys pick many pulls manually and merge them by hand. Somehow related to legal stuff probably. AFAIK they want all contributors to sign CLAs.
+The worst result. Node guys pick many pulls manually and merge them by hand so that pull request metrics don’t show much. Somehow related to legal stuff probably. AFAIK they want all contributors to sign CLAs.
 
-CLAs bureucracy always reduced my desire to contribute to an open-source project. I’m glad there are still big projects without CLAs, like Rails.
+CLAs bureucracy always reduced my desire to contribute to an open-source project. For some companies it is a legal requirement because of shitty laws, but i’m glad there are still big projects without CLAs, like Rails.
+
+## Summary
+
+Taking into account only projects with 250+ pulls, **Akka** and **backbone-fundamentals** with 87% are winners and receive GitHub top pulls #1 award I drew in MS Paint.
+
+![](http://f.cl.ly/items/141q460a1p2c0q1H3A1M/winner.png)
+
+**Node.js** with 6.07% receives GitHub top pulls loser award.
+
+![](http://f.cl.ly/items/2m3O12190L3M1S06371f/loser.png)
