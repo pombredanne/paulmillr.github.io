@@ -116,7 +116,7 @@ Redis wins in this category without doubt.
 
 The worst result. Node suffers from its popularity too. There are many low-quality pulls that don’t get accepted.
 
-Also node guys pick many pulls manually and merge them by hand so that pull request metrics don’t show much. Somehow related to legal stuff probably. AFAIK they want all contributors to sign CLAs. CLAs bureucracy always reduced my desire to contribute to an open-source project. For some companies it is a legal requirement because of shitty laws, but i’m glad there are still big projects without CLAs, like Rails.
+Also node guys pick many pulls manually and merge them by hand so that pull request metrics don’t show much. Somehow related to legal stuff probably. AFAIK they want all contributors to sign [Contributor License Agreement](http://en.wikipedia.org/wiki/Contributor_License_Agreement). CLAs bureucracy always reduced my desire to contribute to an open-source project. For some companies it is a legal requirement because of shitty laws, but i’m glad there are still big projects without CLAs, like Rails.
 
 ## Winners
 
