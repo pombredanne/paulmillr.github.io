@@ -6,9 +6,9 @@ tags: ['programming']
 
 <link rel="stylesheet" type="text/css" href="/media/posts/github-pull-request-stats/graphs.css" />
 
-As a frequent contributor to open-source projects, i’m curious about probability of acceptance of my contribution. Of course, it largerly depends on whether patch fits project or not, but still some projects are less likely to accept your pull. And in some popular projects, there are a lot of low-quality pull request that should not be accepted.
+As a frequent contributor to open-source projects, I’m curious about probability of acceptance of my contribution. Of course, it largely depends on whether a patch fits the project or not, but still some projects are less likely to accept your pull. And in some popular projects, there are a lot of low-quality pull request that should not be accepted.
 
-So i’ve made this summary and mined GitHub data for some popular projects.
+So I’ve made this summary and mined GitHub data for some popular projects.
 
 The data is open-sourced and you may add your project any time
 at [github.com/paulmillr/github-pull-req-stats](https://github.com/paulmillr/github-pull-req-stats).
