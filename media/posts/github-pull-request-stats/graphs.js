@@ -30,7 +30,7 @@ var draw = function(selector, unsortedData, disableInfo) {
     return 0;
   });
 
-  var margin = {top: 20, right: 20, bottom: 30, left: 40},
+  var margin = {top: 20, right: 20, bottom: 30, left: 50},
       width = 860 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
 
@@ -59,7 +59,7 @@ var draw = function(selector, unsortedData, disableInfo) {
 
 
   x.domain(data.map(function(d) { return d.title; }));
-  y.domain([0, d3.max(data, function(d) { return d.stats; })]);
+  y.domain([0, 1]);
 
   svg.append("g")
       .attr("class", "x axis")

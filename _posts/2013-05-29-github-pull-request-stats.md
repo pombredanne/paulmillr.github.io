@@ -122,4 +122,4 @@ Also node guys pick many pulls manually and merge them by hand so that pull requ
 
 Taking into account only projects with 250+ pulls, **Akka** and **backbone-fundamentals** with 87% are winners and receive GitHub top pulls #1 award I drew in MS Paint.
 
-![](http://f.cl.ly/items/141q460a1p2c0q1H3A1M/winner.png)
+![](/media/posts/github-pull-request-stats/winner.png)
