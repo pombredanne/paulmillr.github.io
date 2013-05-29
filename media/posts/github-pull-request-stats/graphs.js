@@ -18,7 +18,7 @@ var colorize = function(d) {
 
 var hover = function(d, x, y) {
   d3.select("#tooltip > span").html(
-    '<a href="https://github.com/' + d.path + '">' + d.repo + '</a>. ' +
+    '<a href="https://github.com/' + d.repo + '">' + d.title + '</a>. ' +
     'Merged: ' + d.merged + ' (' + (d.stats * 100).toFixed(2) + '%) from ' + (d.merged + d.closed) + '.'
   );
 };
@@ -114,8 +114,6 @@ var groupBy = function(list, field) {
 
   return Object.keys(groupped).map(function(_) {
     return {title: _, stats: getAverage(groupped[_])};
-  }).filter(function(_) {
-    return groupped[_.title].length > 1;
   });
 };
 
@@ -134,5 +132,7 @@ d3.json('/github-pull-req-stats/repos.json', function(error, json) {
 
   draw("#repo-stats", data);
   draw("#lang-stats", groupBy(data, 'language'), true);
-  draw("#tag-stats", groupBy(data, 'tags'), true);
+  draw("#tag-stats", groupBy(data, 'tags').filter(function(_) {
+    return groupped[_.title].length > 1;
+  }), true);
 });
