@@ -48,7 +48,7 @@ What about Backbone-based frameworks?
 
 As for non-backbone JS frameworks:
 
-* [Angular.js](https://github.com/angular/angular.js) got **164 merged (15.34%) from 1069**. Google project. Only 15%. I guess, that’s okay for corporate project, though overall it’s pretty meh.
+* [Angular.js](https://github.com/angular/angular.js) got **164 merged (15.34%) from 1069**. Google project. Only 15%. Many angular PRs are pulled manually.
 * [Ember](https://github.com/emberjs/ember.js) has **925 merged pulls (73%) from 1265**
 
 ### [Underscore](https://github.com/documentcloud/underscore)
