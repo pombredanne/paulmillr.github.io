@@ -93,7 +93,7 @@ var getAverage = function(list) {
   return list.reduce(function(a, b) {return a + b}, 0) / list.length;
 };
 
-var groupBy = function(list, field) {
+var groupBy = function(list, field, filter) {
   var groupped = list.filter(function(_) {
     return _[field];
   }).reduce(function(acc, _) {
@@ -112,9 +112,17 @@ var groupBy = function(list, field) {
     return acc;
   }, {});
 
-  return Object.keys(groupped).map(function(_) {
+  var result = Object.keys(groupped).map(function(_) {
     return {title: _, stats: getAverage(groupped[_])};
   });
+
+  if (filter) {
+    return result.filter(function(_) {
+      return groupped[_.title].length > 1;
+    });
+  } else {
+    return result;
+  }
 };
 
 d3.json('/github-pull-req-stats/repos.json', function(error, json) {
@@ -132,7 +140,5 @@ d3.json('/github-pull-req-stats/repos.json', function(error, json) {
 
   draw("#repo-stats", data);
   draw("#lang-stats", groupBy(data, 'language'), true);
-  draw("#tag-stats", groupBy(data, 'tags').filter(function(_) {
-    return groupped[_.title].length > 1;
-  }), true);
+  draw("#tag-stats", groupBy(data, 'tags', true), true);
 });
