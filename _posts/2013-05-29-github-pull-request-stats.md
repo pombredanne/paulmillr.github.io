@@ -114,7 +114,7 @@ Redis wins in this category without doubt.
 ### [Node.js](https://github.com/joyent/node)
 **112 merged (6.07%) from 1845**
 
-The worst result. Node suffers from its popularity too. There are many low-quality pulls that does not get accepted.
+The worst result. Node suffers from its popularity too. There are many low-quality pulls that don’t get accepted.
 
 Also node guys pick many pulls manually and merge them by hand so that pull request metrics don’t show much. Somehow related to legal stuff probably. AFAIK they want all contributors to sign CLAs. CLAs bureucracy always reduced my desire to contribute to an open-source project. For some companies it is a legal requirement because of shitty laws, but i’m glad there are still big projects without CLAs, like Rails.
 
