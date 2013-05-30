@@ -31,7 +31,7 @@ layout: base
     {% for post in site.posts %}
       {% if post.tags contains 'programming' %}
         <li>
-          <span class="post-date">{{ post.date | date: "%d %b %y" }} »</span>
+          <time datetime="{{ post.date | date: "%Y-%m-%d" }}" class="post-date">{{ post.date | date: "%d %b %y" }} »</time>
           {% if post.language == 'ru' %}<span class="russian">(in russian)</span>{% endif %}
           <a href="{% if post.external_link != null %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
         </li>
@@ -43,7 +43,7 @@ layout: base
     {% for post in site.posts %}
       {% if post.tags contains 'libertarianism' and post.language != 'ru' %}
         <li>
-          <span class="post-date">{{ post.date | date: "%d %b %y" }} »</span>
+          <time datetime="{{ post.date | date: "%Y-%m-%d" }}" class="post-date">{{ post.date | date: "%d %b %y" }} »</time>
           <a href="{% if post.external_link != null %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
           {% if post.translation-id %}
             {% for subpost in site.posts %}
