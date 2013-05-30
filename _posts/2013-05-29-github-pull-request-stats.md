@@ -33,7 +33,7 @@ Lets then start with [Jashkenas’](http://ashkenas.com) projects.
 
 My favourite is CoffeeScript. A little language on top of javascript gets every second pull request accepted.
 
-* Coffee’s fork — [LiveScript](https://github.com/gkz/LiveScript) has much less pulls **(40), but bigger chance of merge (32 pulls got merged, that’s 80%)**
+* Coffee’s fork — [LiveScript](https://github.com/gkz/LiveScript) has less pulls **(40), but bigger chance of merge (32 pulls got merged, that’s 80%)**
 
 ### [Backbone](https://github.com/documentcloud/backbone)
 **477 merged (44.25%) from 1078**
