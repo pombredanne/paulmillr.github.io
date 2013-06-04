@@ -3,4 +3,4 @@ server:
 	jekyll --server
 
 build:
-	ruby build.rb
+	ruby assets/build.rb
