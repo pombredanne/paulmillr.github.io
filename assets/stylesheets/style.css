@@ -79,8 +79,7 @@ footer {
 hr {
   border-width: 1px 0 0 0;
   border-style: dashed;
-  border-color: #e0e0e0;
-}
+  border-color: #bbb; }
 
 h1, h2 {
   line-height: normal; }
@@ -162,7 +161,7 @@ header > .cell > p {
     height: 665px; }
   .half-cell, .header-cell {
     padding: 29px;
-    border: 1px dashed #e0e0e0; }
+    border: 1px dashed #bbb; }
   .cell h1 {
     color: #0092bf; }
 
