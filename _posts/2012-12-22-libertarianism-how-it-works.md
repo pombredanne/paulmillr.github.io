@@ -10,6 +10,8 @@ My current thoughts on anarcho-capitalism and libertarianism ([russian version](
 
 Every section has description of how the life area will work, advantages of such way and responses to frequently appearing counter-arguments to anarcho-capitalists model.
 
+Note that anarcho-capitalism essentially means things may go other way. I’m not really making predictions, I try to show how the society *may* work.
+
 Contents:
 
 * Definition

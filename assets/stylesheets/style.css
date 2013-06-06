@@ -30,13 +30,15 @@ body {
   font-family: 'Iowan Old Style', Palatino, "Palatino Linotype", Helvetica, serif;
   margin-top: 1em;
   color: #333;
-  background-color: #d9d9d9; }
+  /*background-color: #d9d9d9; */ }
 
 #container {
   width: 1000px;
   margin: 0 auto; }
 
 /* Tag styles. */
+
+/** {box-sizing: border-box;}*/
 
 a, a:visited {
   text-decoration: none;
@@ -73,6 +75,12 @@ footer {
     font-size: 13px;
     font-weight: 100;
     color: #333; }
+
+hr {
+  border-width: 1px 0 0 0;
+  border-style: dashed;
+  border-color: #e0e0e0;
+}
 
 h1, h2 {
   line-height: normal; }
@@ -146,14 +154,15 @@ header > .cell > p {
 .cell {
   font-size: 18px;
   float: left;
-  width: 940px;
+  width: 980px;
   margin: 0 10px 10px 0;
-  padding: 30px;
-  line-height: 26px;
-  background-color: #f7f7f7; }
+  line-height: 26px; }
   .half-cell {
     width: 435px;
     height: 665px; }
+  .half-cell, .header-cell {
+    padding: 29px;
+    border: 1px dashed #e0e0e0; }
   .cell h1 {
     color: #0092bf; }
 
