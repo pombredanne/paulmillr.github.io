@@ -155,7 +155,7 @@ header > .cell > p {
   float: left;
   width: 980px;
   margin: 0 10px 10px 0;
-  line-height: 26px; }
+  line-height: 1.45; }
   .half-cell {
     width: 435px;
     height: 665px; }
