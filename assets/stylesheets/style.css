@@ -214,7 +214,8 @@ header > .cell > p {
     display: block;
     float: none; }
   .page-title {
-    margin: 0 0 10px 0; }
+    margin: 0 0 10px 0;
+    font-size }
   .header-links {
     float: none;
     padding-bottom: 10px; }
@@ -229,3 +230,13 @@ header > .cell > p {
     max-width: 650px; }
 }
 
+@media only screen and (max-width: 400px) {
+  .author-photo {
+    float: none;
+    position: static; }
+  .page-title {
+    padding: 10px;
+    text-align: center; }
+  .page-title .name {
+    width: auto; }
+}
