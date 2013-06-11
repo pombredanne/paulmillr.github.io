@@ -172,6 +172,8 @@ header > .cell > p {
   margin-top: 18px; }
 
 /* Post styles. */
+.post {
+  padding: 10px; }
 .post-list, .post-list > li {
   padding-left: 0;
   list-style: none; }
@@ -231,6 +233,9 @@ header > .cell > p {
 }
 
 @media only screen and (max-width: 400px) {
+  .post-suggest-improvement {
+    float: none;
+    display: block; }
   .author-photo {
     float: none;
     position: static; }
