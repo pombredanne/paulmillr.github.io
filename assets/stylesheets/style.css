@@ -158,9 +158,9 @@ header > .cell > p {
   line-height: 1.45; }
   .half-cell {
     width: 435px;
-    height: 695px; }
+    height: 765px; }
   .half-cell, .header-cell {
-    padding: 29px;
+    padding: 14px 29px 29px 29px;
     border: 1px dashed #bbb; }
   .cell h1 {
     color: #0092bf; }
