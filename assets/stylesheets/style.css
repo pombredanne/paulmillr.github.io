@@ -156,12 +156,13 @@ header > .cell > p {
   width: 980px;
   margin: 0 10px 10px 0;
   line-height: 1.45; }
+  .half-cell, .header-cell {
+    padding: 29px;
+    border: 1px dashed #bbb; }
   .half-cell {
     width: 435px;
-    height: 765px; }
-  .half-cell, .header-cell {
-    padding: 14px 29px 29px 29px;
-    border: 1px dashed #bbb; }
+    height: 765px;
+    padding-top: 14px; }
   .cell h1 {
     color: #0092bf; }
 
