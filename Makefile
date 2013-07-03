@@ -1,6 +1,6 @@
 server:
 	@echo "http://localhost:4000"
-	jekyll --server
+	jekyll serve --watch
 
 build:
 	ruby assets/build.rb
