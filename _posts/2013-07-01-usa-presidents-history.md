@@ -102,7 +102,7 @@ The article is currently **work in progress**.
 
 * **Reagan**
 
-1. Reduced upper tax limit from 70% до 28%, decreased medicaid
+1. Reduced upper tax limit from 70% to 28%, decreased medicaid
 2. Increased military spending, started war on drugs, limited migration more
 
 * **Bush**
@@ -118,7 +118,7 @@ The article is currently **work in progress**.
 
 1. Started [War on Terror](http://en.wikipedia.org/wiki/War_on_Terror) (Wars in Afghanistan / Iraq).
 2. Issued several [tax cuts](http://en.wikipedia.org/wiki/Bush_tax_cuts).
-3. Started [PATRIOT act](http://en.wikipedia.org/wiki/Patriot_Act). Most important aspects of which are: a) The President's can wiretap Americans' phone calls without a warrant, on the suspicion they might be a terrorist b) The President's ability to issue National Security letters to a financial institution (very inclusive term) or even a library, requesting records or documents regarding an individual. A warrant is not needed and if served with an NSL, you are not able to tell anyone or you'll go to jail. c) Allowed NSA to start massive domestic surveillance program [PRISM](http://en.wikipedia.org/wiki/PRISM_(surveillance_program)).
+3. Started [PATRIOT act](http://en.wikipedia.org/wiki/Patriot_Act). Most important aspects of which are: a) The President's can wiretap Americans' phone calls without a warrant, on the suspicion they might be a terrorist. b) The President's ability to issue National Security letters to a financial institution (very inclusive term) or even a library, requesting records or documents regarding an individual. A warrant is not needed and if served with an NSL, you are not able to tell anyone or you'll go to jail. c) Allowed NSA to start massive domestic surveillance program [PRISM](http://en.wikipedia.org/wiki/PRISM_(surveillance_program).
 4. Established [Gitmo](http://en.wikipedia.org/wiki/Guantánamo_Bay_detention_camp).
 5. Signed into law the [Genetic Information Nondiscrimination Act (GINA)](http://en.wikipedia.org/wiki/Genetic_Information_Nondiscrimination_Act). The bill banned discrimination based on genetic information when it comes to health insurance and employment.
 6. Partially lifted ban on [Stem Cell research](http://en.wikipedia.org/wiki/George_w_bush#Stem_cell_research_and_first_use_of_veto_power)
