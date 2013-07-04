@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'USA presidential reforms history'
+title: 'The History of American Presidential Reforms'
 tags: ['libertarianism']
 ---
 
@@ -13,6 +13,7 @@ suggestions are welcome.
 The article is currently **work in progress**.
 
 ## XVIII - XIX centuries
+
 * **Washington, Adams, Jefferson** — cool dudes, founding fathers
 * **Madison**
 * **Monroe**
@@ -38,6 +39,7 @@ The article is currently **work in progress**.
 * **McKinley**
 
 ## XX century
+
 * **Theodore Roosevelt**
 
 1. Issued [anti-trust laws](http://en.wikipedia.org/wiki/Sherman_Antitrust_Act), attacked big businesses, supported unions
@@ -116,15 +118,17 @@ The article is currently **work in progress**.
 
 1. Started [War on Terror](http://en.wikipedia.org/wiki/War_on_Terror) (Wars in Afghanistan / Iraq).
 2. Issued several [tax cuts](http://en.wikipedia.org/wiki/Bush_tax_cuts).
-3. Started [PATRIOT act](http://en.wikipedia.org/wiki/Patriot_Act). Most important aspects of which are: a) The president's new ability to wiretap Americans' phone calls without a warrant, on the suspicion they might be a terrorist b) The President's ability to issue National Security letters to a financial institution (very inclusive term) or even a library, requesting records or documents regarding an individual. A warrant is not needed and if served with an NSL, you are not able to tell anyone or you'll go to jail.
-4. Signed into law the [Genetic Information Nondiscrimination Act (GINA)](http://en.wikipedia.org/wiki/Genetic_Information_Nondiscrimination_Act). The bill banned discrimination based on genetic information when it comes to health insurance and employment.
-5. Partially lifted ban on [Stem Cell research](http://en.wikipedia.org/wiki/George_w_bush#Stem_cell_research_and_first_use_of_veto_power)
-6. Lifted a ban on [offshore drilling](http://en.wikipedia.org/wiki/Offshore_drilling)
-7. Signed [Medicare Modernization Act](http://en.wikipedia.org/wiki/Medicare_Prescription_Drug,_Improvement,_and_Modernization_Act),
+3. Started [PATRIOT act](http://en.wikipedia.org/wiki/Patriot_Act). Most important aspects of which are: a) The President's can wiretap Americans' phone calls without a warrant, on the suspicion they might be a terrorist b) The President's ability to issue National Security letters to a financial institution (very inclusive term) or even a library, requesting records or documents regarding an individual. A warrant is not needed and if served with an NSL, you are not able to tell anyone or you'll go to jail. c) Allowed NSA to start massive domestic surveillance program [PRISM](http://en.wikipedia.org/wiki/PRISM_(surveillance_program)).
+4. Established [Gitmo](http://en.wikipedia.org/wiki/Guantánamo_Bay_detention_camp).
+5. Signed into law the [Genetic Information Nondiscrimination Act (GINA)](http://en.wikipedia.org/wiki/Genetic_Information_Nondiscrimination_Act). The bill banned discrimination based on genetic information when it comes to health insurance and employment.
+6. Partially lifted ban on [Stem Cell research](http://en.wikipedia.org/wiki/George_w_bush#Stem_cell_research_and_first_use_of_veto_power)
+7. Lifted a ban on [offshore drilling](http://en.wikipedia.org/wiki/Offshore_drilling)
+8. Signed [Medicare Modernization Act](http://en.wikipedia.org/wiki/Medicare_Prescription_Drug,_Improvement,_and_Modernization_Act),
 a major overhaul of Medicare. It provided tax breaks for prescription drugs.
 
 * **Obama**
 
-1. Introduced [Obamacare](http://en.wikipedia.org/wiki/Obamacare),
+1. Signed into US law the [National Defense Authorization Act for Fiscal Year 2012 (NDAA for FY2012)](http://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2012). This edition of NDAA explicitly authorizes the President of the United States to indefinitely detain any person (US citizens included), who they _think_ is a terrorist, without trial.
+2. Introduced [Obamacare](http://en.wikipedia.org/wiki/Obamacare),
        the most significant government expansion in U.S. healthcare since 1965.
-2. Repealed ["Don't ask, don't tell"](http://en.wikipedia.org/wiki/Don't_ask,_don't_tell) for LGBT
+3. Repealed ["Don't ask, don't tell"](http://en.wikipedia.org/wiki/Don't_ask,_don't_tell) for LGBT
