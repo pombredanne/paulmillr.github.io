@@ -4,8 +4,8 @@ title: 'The History of American Presidential Reforms'
 tags: ['libertarianism']
 ---
 
-To know history better, I wanted to aggregate data about
-what United States presidents did to the country.
+To know history better, I wanted to aggregate data about what
+United States presidents and Congress did to the country.
 
 Most likely, I have missed some big changes by various folks,
 suggestions are welcome.
@@ -40,81 +40,82 @@ The article is currently **work in progress**.
 
 ## XX century
 
-* **Theodore Roosevelt**
+#### Theodore Roosevelt
 
 1. Issued [anti-trust laws](http://en.wikipedia.org/wiki/Sherman_Antitrust_Act), attacked big businesses, supported unions
 2. Expanded the system of national parks and forests
 
-* **Woodrow Wilson**
+#### William Howard Taft
+
+#### Woodrow Wilson
 
 1. Created federal reserve.
 2. Limited migration
 
-* **Garding**
+#### Warren G. Harding
 
 1. Reduced income tax.
 2. Reduced regulation of monopolies.
 3. Reduced excess profits tax.
 
-* **Coolidge**
+#### Calvin Coolidge
 
 1. Increased various fees
 2. Limited migration, introduced state control of radio
 
-* **Goover**
+#### Herbert Hoover
 
 1. Prohibited alcohol
 
-* **Franklin**
+#### Franklin D. Roosevelt
 
 1. Introduced New Deal
 2. Introduced social security
 
-* **Truman**
+#### Harry S. Truman
 
 1. Increased social security, increased minimal wage, started public housing program.
 2. Followed non-intervention policy.
 
-* **Eisenhower**
+#### Dwight D. Eisenhower
 
 1. Added over 10 million people benefited from social security system
 2. Increased public housing program
 
-* **Kennedy**
+#### John F. Kennedy
 
 1. Started allowing companies to move production offshore
 
-* **Johnson**
+#### Lyndon B. Johnson
 
 1. Wanted to create welfare state, introduced medicare
 2. Social — helped blacks
 
-* **Nixxon**
+#### Richard Nixon
 
 1. Suspended dollar convertibility into gold
 
-* **Ford**
+#### Gerald Ford
 
-
-* **Carter**
+#### Jimmy Carter
 
 1. Increased social security system
 
-* **Reagan**
+#### Ronald Reagan
 
 1. Reduced upper tax limit from 70% to 28%, decreased medicaid
 2. Increased military spending, started war on drugs, limited migration more
 
-* **Bush**
+#### George H. W. Bush
 
 1. introduced some new taxes, supported the unions
 2. Social — started many military operations
 
-* **Klinton**
+#### Bill Clinton
 
 1. increased social security and medical insurance users (+35M people)
 
-* **George W. Bush**
+#### George W. Bush
 
 1. Started [War on Terror](http://en.wikipedia.org/wiki/War_on_Terror) (Wars in Afghanistan / Iraq).
 2. Issued several [tax cuts](http://en.wikipedia.org/wiki/Bush_tax_cuts).
@@ -126,9 +127,8 @@ The article is currently **work in progress**.
 8. Signed [Medicare Modernization Act](http://en.wikipedia.org/wiki/Medicare_Prescription_Drug,_Improvement,_and_Modernization_Act),
 a major overhaul of Medicare. It provided tax breaks for prescription drugs.
 
-* **Obama**
+#### Barack Obama
 
 1. Signed into US law the [National Defense Authorization Act for Fiscal Year 2012 (NDAA for FY2012)](http://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2012). This edition of NDAA explicitly authorizes the President of the United States to indefinitely detain any person (US citizens included), who they _think_ is a terrorist, without trial.
-2. Introduced [Obamacare](http://en.wikipedia.org/wiki/Obamacare),
-       the most significant government expansion in U.S. healthcare since 1965.
+2. Introduced [Obamacare](http://en.wikipedia.org/wiki/Obamacare), the most significant government expansion in U.S. healthcare since 1965.
 3. Repealed ["Don't ask, don't tell"](http://en.wikipedia.org/wiki/Don't_ask,_don't_tell) for LGBT
