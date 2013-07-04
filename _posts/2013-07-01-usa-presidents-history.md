@@ -121,11 +121,12 @@ The article is currently **work in progress**.
 2. Issued several [tax cuts](http://en.wikipedia.org/wiki/Bush_tax_cuts).
 3. Started [PATRIOT act](http://en.wikipedia.org/wiki/Patriot_Act). Most important aspects of which are: a) The President's can wiretap Americans' phone calls without a warrant, on the suspicion they might be a terrorist. b) The President's ability to issue National Security letters to a financial institution (very inclusive term) or even a library, requesting records or documents regarding an individual. A warrant is not needed and if served with an NSL, you are not able to tell anyone or you'll go to jail. c) Allowed NSA to start massive domestic surveillance program [PRISM](http://en.wikipedia.org/wiki/PRISM_(surveillance_program).
 4. Established [Gitmo](http://en.wikipedia.org/wiki/Guantánamo_Bay_detention_camp).
-5. Signed into law the [Genetic Information Nondiscrimination Act (GINA)](http://en.wikipedia.org/wiki/Genetic_Information_Nondiscrimination_Act). The bill banned discrimination based on genetic information when it comes to health insurance and employment.
-6. Partially lifted ban on [Stem Cell research](http://en.wikipedia.org/wiki/George_w_bush#Stem_cell_research_and_first_use_of_veto_power)
-7. Lifted a ban on [offshore drilling](http://en.wikipedia.org/wiki/Offshore_drilling)
-8. Signed [Medicare Modernization Act](http://en.wikipedia.org/wiki/Medicare_Prescription_Drug,_Improvement,_and_Modernization_Act),
-a major overhaul of Medicare. It provided tax breaks for prescription drugs.
+5. Signed into law the [Protect America Act of 2007 (PAA)](http://en.wikipedia.org/wiki/Protect_America_Act_of_2007), which removed the warrant requirement for govt surveillance of foreign targets.
+6. Signed into law the [FISA Amendments Act of 2008](http://en.wikipedia.org/wiki/FISA_Amendments_Act_of_2008), which grants immunity to telecoms for cooperation with authorities and allowed the government to conduct surveillance of a US person located outside of the USA up for one week without a warrant.
+7. Signed into law the [Genetic Information Nondiscrimination Act (GINA)](http://en.wikipedia.org/wiki/Genetic_Information_Nondiscrimination_Act). The bill banned discrimination based on genetic information when it comes to health insurance and employment.
+8. Partially lifted ban on [Stem Cell research](http://en.wikipedia.org/wiki/George_w_bush#Stem_cell_research_and_first_use_of_veto_power)
+9. Lifted a ban on [offshore drilling](http://en.wikipedia.org/wiki/Offshore_drilling)
+10. Signed [Medicare Modernization Act](http://en.wikipedia.org/wiki/Medicare_Prescription_Drug,_Improvement,_and_Modernization_Act), a major overhaul of Medicare. It provided tax breaks for prescription drugs.
 
 #### Barack Obama
 
