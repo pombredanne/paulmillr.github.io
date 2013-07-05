@@ -1,19 +1,5 @@
 @font-face {
   font-family: 'Museo Sans';
-  src: url('./fonts/Museo Sans 100.otf');
-  font-style: normal;
-  font-weight: 100;
-}
-
-@font-face {
-  font-family: 'Museo Sans';
-  src: url('./fonts/Museo Sans 100i.otf');
-  font-style: italic;
-  font-weight: 100;
-}
-
-@font-face {
-  font-family: 'Museo Sans';
   src: url('./fonts/Museo Sans 300.otf');
   font-style: normal;
   font-weight: 300;
