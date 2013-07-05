@@ -75,5 +75,27 @@
       s.parentNode.insertBefore(t, s);
     })();
   </script>
+  <script>
+  var addEmojis = function() {
+    if (!window.HTMLCanvasElement) return;
+
+    var node = document.createElement('canvas');
+    var ctx = node.getContext('2d');
+
+    ctx.textBaseline = 'top';
+    ctx.font = '32px Arial';
+    ctx.fillText('\ud83d\ude03', 0, 0); // "smiling face with open mouth" emoji
+    var emojiSupported = ctx.getImageData(16, 16, 1, 1).data[0] !== 0;
+    if (!emojiSupported) return;
+
+    var russianFlag = decodeURIComponent('%F0%9F%87%B7%F0%9F%87%BA');
+
+    [].slice.call(document.querySelectorAll('.in-russian'))
+      .forEach(function(_) {
+        _.textContent = russianFlag;
+      });
+  };
+  try {addEmojis();} catch(error) {}
+  </script>
 </body>
 </html>

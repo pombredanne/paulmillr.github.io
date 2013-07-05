@@ -33,7 +33,7 @@ layout: base
       {% if post.tags contains 'programming' %}
         <li>
           <time datetime="{{ post.date | date: "%Y-%m-%d" }}" class="post-date">{{ post.date | date: "%d %b %y" }} »</time>
-          {% if post.language == 'ru' %}<span class="russian">(in russian)</span>{% endif %}
+          {% if post.language == 'ru' %}<span class="in-russian">(in russian)</span>{% endif %}
           <a href="{% if post.external_link != null %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
         </li>
       {% endif %}
@@ -50,7 +50,7 @@ layout: base
           {% if post.translation-id %}
             {% for subpost in site.posts %}
               {% if subpost.translation-id == post.translation-id and subpost.id != post.id %}
-                (in russian: <a href="{{ subpost.url }}">{{ subpost.title }}</a>)
+                (<span class="in-russian">in russian</span>: <a href="{{ subpost.url }}">{{ subpost.title }}</a>)
               {% endif %}
             {% endfor %}
           {% endif %}
