@@ -15,18 +15,20 @@ You can read the basics of the philosophy in [anarcho-capitalist FAQ](http://www
 1. [**Walter Block — Defending the undefendable**](http://mises.org/document/3490/Defending-the-Undefendable) — a tale on negative social / economic issues with governments prohibitions. Block defends pimps, drug dealers, blackmailers, corrupt policemen, and loan sharks as "economic heroes".
 2. **David Bergland — Libertarianism in one lesson** — the basics about libertarian philosophy.
 3. **David Friedman — The Machinery of Freedom** — utilitarian consequentialist view on anarcho-capitalism. David defends ancap because it is more effective, not because it is moral or something.
-4. [**Murray Rothbard — What Has Government Done to Our Money?**](http://mises.org/document/617/What-Has-Government-Done-to-Our-Money) — the not-so-brief history of economics in XIX-XX centuries. How central banks fucked up all the shit, how the gold standard was fucked up.
-5. [**Murray Rothbard — The Ethics of Liberty**](http://mises.org/document/1179/The-Ethics-of-Liberty). Describes ethics of libertarian philosophy, natural rights (freedoms). Contains a bit about rights of mother on her child and responses to consequentialist critics of non-aggression principle. Pretty similar to the previous book, although less interesting.
-6. [**Hans-Hermann Hoppe — Myth of National Defense**](http://mises.org/document/1092/Myth-of-National-Defense-The-Essays-on-the-Theory-and-History-of-Security-Production). Book tells about inefficiency of states as security providers, historicity of the State, describes how state-less societies may defend themselves from states; private free-market defense / law production and debunkes myth that democracy is more peaceful than other forms of government.
+4. [**Murray Rothbard — What Has Government Done to Our Money?**](http://mises.org/document/617/What-Has-Government-Done-to-Our-Money) — the not-so-brief history of economics in XIX-XX centuries. How central banks were created, how the gold standard was fucked up.
+5. [**Hans-Hermann Hoppe — Myth of National Defense**](http://mises.org/document/1092/Myth-of-National-Defense-The-Essays-on-the-Theory-and-History-of-Security-Production). Book tells about inefficiency of states as security providers, historicity of the State, describes how state-less societies may defend themselves from states; private free-market defense / law production and debunkes myth that democracy is more peaceful than other forms of government.
 
-Less interesting, but still neat books:
+Less interesting, but still nice books:
 
+* **Frank Karsten — Beyond Democracy** — why democracy does not lead to solidarity, prosperity and liberty but to unrest, runaway spending and a tyrannical government.
+* [**Murray Rothbard — The Ethics of Liberty**](http://mises.org/document/1179/The-Ethics-of-Liberty). Describes ethics of libertarian philosophy, natural rights (freedoms). Contains a bit about rights of mother on her child and responses to consequentialist critics of non-aggression principle. Pretty similar to “Defending the undefendable”, although less interesting.
 * [**Walter Block — The Privatization of Roads and Highways**](http://mises.org/document/4084/The-Privatization-of-Roads-and-Highways). Big (~1K pages) book about benefits & detailed description of how roads will function if they will be freed from government monopolies.
 * [**Murray Rothbard — The Case Against the Fed**](http://mises.org/document/3430/The-Case-Against-the-Fed). Tells history of americal federal reverse system, reasons of its shittiness and a bit more.
 * [**Vadim Volkov — Violent Entrepreneurs: The Use of Force in the Making of Russian Capitalism**](http://www.amazon.com/Violent-Entrepreneurs-Making-Russian-Capitalism/dp/0801487781) [(also in russian)](http://eupress.ru/books/index/item/id/114). Very good research of organised violence in post-USSR Russia, very similar to free market private defence agencies. Provides some insights and facts on how private law could actually work today.
 
 ## Fiction books
 
+* **Heinlein — Moon is a Harsh Mistress** — a tale of revolution, of the rebellion of the former Lunar penal colony against the Lunar Authority that controls it from Earth. Heroes want to build “rational anarchist” society. One of the most popular science fiction books ever.
 * [Alex Rozov — Meganezia](http://lib.rus.ec/b/122647) (russian). Book series about a fictional future libertarian state Meganesia. The action takes place in the 2040-2050. All the books, except the first one are very large (~1.5K-2.5K pages). Contains a lot of interesting science fiction (esp. about space exploration and genetic engineering).
 
 ## Articles
