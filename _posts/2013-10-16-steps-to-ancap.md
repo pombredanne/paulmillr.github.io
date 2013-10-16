@@ -2,6 +2,7 @@
 layout: post
 title: 'Five simple steps to anarcho-capitalist revolution'
 tags: ['libertarianism']
+language: en
 ---
 
 There are several ways of creating an anarcho-capiatalist society out there.
