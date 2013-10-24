@@ -49,7 +49,7 @@ The article is currently **work in progress**.
 
 #### Woodrow Wilson
 
-1. Created federal reserve.
+1. Introduced federal reserve.
 2. Limited migration
 
 #### Warren G. Harding
@@ -113,7 +113,7 @@ The article is currently **work in progress**.
 
 #### Bill Clinton
 
-1. increased social security and medical insurance users (+35M people)
+1. Increased social security and medical insurance users (+35M people)
 
 #### George W. Bush
 
